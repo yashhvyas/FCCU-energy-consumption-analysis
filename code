@@ -1,0 +1,42 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt 
+
+df = pd.read_csv("//Users/macbook/Desktop/Fccu project /fccu_energy_consumption_raw.csv")
+print(df)
+# now explore data and find out ! what problems in row data 
+print(df.shape)
+print(df.head())
+print(df.dtypes)
+print(df.isnull().sum())
+print(df.info())
+print(df.describe())
+# now start to data and time in same order 
+df["Date"] = pd.to_datetime(df["Date"],format="mixed")
+print(df["Date"].dtype)
+print(df["Date"].head())  
+#  so now date and time in same formate like 2020-01-01 00:00:00 and then we will do some data cleaning and data preprocessing to make the data more useful for analysis and visualization.
+df["Equipment_Name"]=df["Equipment_Name"].str.strip().str.title()
+print(df["Equipment_Name"].unique())
+df["Energy_Type"]=df["Energy_Type"].str.strip().str.title()
+print(df["Energy_Type"].unique()) 
+df["Unit"]=df["Unit"].str.strip().str.title()
+df["Unit"]=df["Unit"].replace("Kwh","kWh").replace("Mwh","MWh").replace("Gwh","GWh").replace("T","Ton")
+df["Unit"].unique()
+df["Shift"]=df["Shift"].str.strip().str.title()
+df["Shift"]=df["Shift"].replace("A","A Shift").replace("B","B Shift").replace("C","C Shift").replace("C-Shift","C Shift")
+print(df["Shift"].unique())
+df["Energy_Type"]=df["Energy_Type"].replace("Fuelgas","Fuel Gas").replace("Steam","Steam").replace("Electricity","Electricity")
+print(df["Energy_Type"].unique())
+print(df)
+# so now we have cleaned the data and then we will do some data visualization to understand the data better and also we will do some analysis to find out some insights from the data.
+print(df.drop_duplicates().shape)
+# so now we have removed the duplicate value and then we will do some data visualization to understand
+df["Consumption"] = df["Consumption"].fillna(
+    df.groupby("Equipment_Name")["Consumption"].transform("mean")
+)
+print(df.isnull().sum())
+df["Remarks"]=df["Remarks"].fillna("Avarage value from Normalcondtion").astype(str)
+print(df.isnull().sum())
+# so now we have removed the null value and then we will do some data visualization to understand
+print(df)
