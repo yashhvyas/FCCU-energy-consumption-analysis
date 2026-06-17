@@ -1,0 +1,1637 @@
+Date,Plant_Area,Equipment_Name,Energy_Type,Consumption,Unit,Shift,Remarks
+2025-01-25,FCCU,Reactor,Steam,210.47,Ton,General,Avarage value from Normalcondtion
+2025-02-05,FCCU,Slurry Pump,Power,159.15,kWh,C Shift,Startup phase
+2025-03-21,FCCU,Air Blower,Power,4088.27,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-14,FCCU,Main Fractionator,Steam,124.28,Ton,B Shift,Reading taken manually
+2025-04-19,FCCU,Regenerator,Steam,355.75,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-30,FCCU,Regenerator,Steam,338.62,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-24,FCCU,Main Fractionator,Steam,93.73,Tons,General,Avarage value from Normalcondtion
+2025-01-04,FCCU,Main Fractionator,Steam,111.51,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-02,FCCU,Wet Gas Compressor,Power,4232.05,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Wet Gas Compressor,Power,4071.85,kWh,C Shift,Normal operation
+2025-03-31,FCCU,Flue Gas Cooler,Power,1086.55,kWh,B Shift,Sensor calibration pending
+2025-05-19,FCCU,Slurry Pump,Electricity,162.57,kWh,A Shift,Reading taken manually
+2025-01-08,FCCU,Co Boiler,Fuel Gas,428.14,Sm3,B Shift,Avarage value from Normalcondtion
+2025-06-17,FCCU,Reactor,Steam,203.74,Ton,B Shift,Reading taken manually
+2025-12-01,FCCU,Co Boiler,Fuel Gas,426.14,Sm3,General,Sensor calibration pending
+2025-05-30,FCCU,Wet Gas Compressor,Power,4480.16,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-19,FCCU,Wet Gas Compressor,Power,4426.95,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-26,FCCU,Main Fractionator,Steam,99.48,Tons,B Shift,Avarage value from Normalcondtion
+2025-04-02,FCCU,Co Boiler,Fuel Gas,458.6,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Main Fractionator,Steam,124.26,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-24,FCCU,Regenerator,Steam,355.39,Ton,A Shift,Reading taken manually
+2025-05-21,FCCU,Slurry Pump,Electricity,152.07,kWh,C Shift,Unit under maintenance
+2025-04-21,FCCU,Slurry Pump,Power,214.83528735632183,kWh,A Shift,Minor fluctuation observed
+2025-01-10,FCCU,Co Boiler,Fuel Gas,470.47,Scm,C Shift,Unit under maintenance
+2025-06-12,FCCU,Co Boiler,Fuel Gas,414.24,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Wet Gas Compressor,Power,4468.74,kWh,C Shift,Reading taken manually
+2025-12-02,FCCU,Wet Gas Compressor,Power,4494.31,kWh,C Shift,Sensor calibration pending
+2025-01-20,FCCU,Flue Gas Cooler,Power,1069.6,kWh,C Shift,Normal operation
+2025-04-25,FCCU,Co Boiler,Fuel Gas,403.06,Scm,C Shift,Avarage value from Normalcondtion
+2025-04-13,FCCU,Feed Preheater,Fuel Gas,290.1,Scm,A Shift,Unit under maintenance
+2025-01-22,FCCU,Regenerator,Steam,330.33,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-21,FCCU,Feed Preheater,Fuel Gas,294.82,Scm,C Shift,  
+2025-06-29,FCCU,Flue Gas Cooler,Power,983.98,kWh,C Shift,Normal operation
+2025-03-03,FCCU,Air Blower,Electricity,4106.99,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-13,FCCU,Air Blower,Electricity,3817.55,kWh,B Shift,Minor fluctuation observed
+2025-05-03,FCCU,Main Fractionator,Steam,109.35,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Reactor,Steam,184.54,Tons,B Shift,Sensor calibration pending
+2025-02-07,FCCU,Feed Preheater,Fuel Gas,292.17,Scm,B Shift,Startup phase
+2025-01-12,FCCU,Main Fractionator,Steam,126.05,Ton,A Shift,Normal operation
+2025-03-05,FCCU,Wet Gas Compressor,Power,4556.26,kWh,C Shift,Startup phase
+2025-03-23,FCCU,Reactor,Steam,198.99,Ton,General,Avarage value from Normalcondtion
+2025-02-09,FCCU,Air Blower,Electricity,3578.76,kWh,B Shift,  
+2025-06-27,FCCU,Reactor,Steam,210.76,Tons,B Shift,Avarage value from Normalcondtion
+2025-02-28,FCCU,Slurry Pump,Power,172.35,kWh,C Shift,Avarage value from Normalcondtion
+2025-09-05,FCCU,Reactor,Steam,210.85,Ton,A Shift,Unit under maintenance
+2025-06-04,FCCU,Flue Gas Cooler,Power,1073.56,kWh,B Shift,Minor fluctuation observed
+2025-02-26,FCCU,Feed Preheater,Fuel Gas,275.07,Scm,A Shift,Avarage value from Normalcondtion
+2025-01-18,FCCU,Regenerator,Steam,357.98,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-28,FCCU,Flue Gas Cooler,Power,976.11,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Regenerator,Steam,341.5,Tons,C Shift,Avarage value from Normalcondtion
+2025-11-02,FCCU,Wet Gas Compressor,Electricity,4543.92,kWh,General,Avarage value from Normalcondtion
+2025-01-02,FCCU,Wet Gas Compressor,Electricity,4099.59,kWh,B Shift,  
+2025-02-23,FCCU,Reactor,Steam,188.88,Ton,General,Minor fluctuation observed
+2025-03-10,FCCU,Flue Gas Cooler,Power,955.99,kWh,C Shift,Sensor calibration pending
+2025-01-08,FCCU,Feed Preheater,Fuel Gas,265.51,Sm3,B Shift,Normal operation
+2025-03-17,FCCU,Regenerator,Steam,348.34,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-04,FCCU,Feed Preheater,Fuel Gas,269.13,Scm,C Shift,Startup phase
+2025-02-27,FCCU,Co Boiler,Fuel Gas,444.67,Scm,General,Startup phase
+2025-04-19,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,B Shift,  
+2025-08-02,FCCU,Air Blower,Electricity,3900.24,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-05,FCCU,Feed Preheater,Fuel Gas,300.1,Scm,A Shift,Startup phase
+2025-01-18,FCCU,Reactor,Steam,216.16,Ton,B Shift,Reading taken manually
+2025-02-17,FCCU,Feed Preheater,Fuel Gas,287.44,Scm,General,Avarage value from Normalcondtion
+2025-06-22,FCCU,Air Blower,Electricity,4007.1956647398843,kWh,A Shift,Unit under maintenance
+2025-05-17,FCCU,Reactor,Steam,219.89,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-15,FCCU,Feed Preheater,Fuel Gas,286.45,Scm,C Shift,Sensor calibration pending
+2025-03-23,FCCU,Co Boiler,Fuel Gas,463.28,Scm,C Shift,Avarage value from Normalcondtion
+2025-06-26,FCCU,Main Fractionator,Steam,1220.1,Tons,General,Sensor calibration pending
+2025-04-05,FCCU,Co Boiler,Fuel Gas,431.67,Scm,B Shift,Avarage value from Normalcondtion
+2025-08-01,FCCU,Main Fractionator,Steam,114.64,Tons,A Shift,Minor fluctuation observed
+2025-01-18,FCCU,Co Boiler,Fuel Gas,419.08,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-16,FCCU,Co Boiler,Fuel Gas,407.53,Sm3,A Shift,Unit under maintenance
+2025-03-29,FCCU,Feed Preheater,Fuel Gas,300.51,Sm3,General,Avarage value from Normalcondtion
+2025-03-23,FCCU,Air Blower,Electricity,3941.95,kWh,A Shift,  
+2025-03-03,FCCU,Reactor,Steam,209.82,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-20,FCCU,Air Blower,Electricity,3533.98,kWh,A Shift,Reading taken manually
+2025-03-27,FCCU,Feed Preheater,Fuel Gas,260.37,Scm,B Shift,Avarage value from Normalcondtion
+2025-09-01,FCCU,Flue Gas Cooler,Power,1058.05,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-30,FCCU,Main Fractionator,Steam,1079.5,Ton,B Shift,  
+2025-01-27,FCCU,Slurry Pump,Power,187.5,kWh,C Shift,Startup phase
+2025-03-22,FCCU,Regenerator,Steam,338.04,Ton,C Shift,Startup phase
+2025-05-27,FCCU,Air Blower,Electricity,3513.21,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-30,FCCU,Reactor,Steam,210.28,Tons,General,Sensor calibration pending
+2025-06-15,FCCU,Regenerator,Steam,-314.09,Ton,A Shift,Unit under maintenance
+2025-12-01,FCCU,Slurry Pump,Power,213.98,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-21,FCCU,Main Fractionator,Steam,125.41,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-16,FCCU,Reactor,Steam,187.52,Ton,B Shift,Unit under maintenance
+2025-04-16,FCCU,Flue Gas Cooler,Power,1033.42,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-19,FCCU,Slurry Pump,Power,153.07,kWh,C Shift,  
+2025-06-26,FCCU,Co Boiler,Fuel Gas,403.24,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-14,FCCU,Slurry Pump,Power,187.16,kWh,C Shift,Unit under maintenance
+2025-05-29,FCCU,Reactor,Steam,183.68,Ton,A Shift,Reading taken manually
+2025-05-01,FCCU,Reactor,Steam,218.95,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Reactor,Steam,197.67,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Air Blower,Power,3538.44,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Wet Gas Compressor,Power,4007.49,kWh,General,Avarage value from Normalcondtion
+2025-03-29,FCCU,Main Fractionator,Steam,103.65,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-28,FCCU,Slurry Pump,Power,214.83528735632183,kWh,A Shift,  
+2025-02-28,FCCU,Reactor,Steam,202.0,Tons,A Shift,  
+2025-06-17,FCCU,Feed Preheater,Fuel Gas,294.44,Sm3,C Shift,Minor fluctuation observed
+2025-01-04,FCCU,Flue Gas Cooler,Electricity,1088.41,kWh,General,Reading taken manually
+2025-06-18,FCCU,Air Blower,Power,3672.95,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-30,FCCU,Slurry Pump,Power,167.4,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-29,FCCU,Slurry Pump,Power,177.3,kWh,B Shift,Sensor calibration pending
+2025-06-21,FCCU,Regenerator,Steam,338.14593023255816,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-19,FCCU,Reactor,Steam,187.55,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-20,FCCU,Regenerator,Steam,302.73,Tons,C Shift,Avarage value from Normalcondtion
+2025-05-02,FCCU,Air Blower,Power,4028.49,kWh,General,Avarage value from Normalcondtion
+2025-10-05,FCCU,Feed Preheater,Fuel Gas,255.71,Scm,B Shift,Reading taken manually
+2025-02-18,FCCU,Wet Gas Compressor,Electricity,4386.8,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-29,FCCU,Flue Gas Cooler,Electricity,1037.27,kWh,C Shift,Normal operation
+2025-06-27,FCCU,Co Boiler,Fuel Gas,479.37,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-19,FCCU,Slurry Pump,Electricity,193.97,kWh,A Shift,Minor fluctuation observed
+2025-04-12,FCCU,Wet Gas Compressor,Power,4225.4,kWh,C Shift,Reading taken manually
+2025-01-13,FCCU,Flue Gas Cooler,Electricity,1081.72,kWh,B Shift,Reading taken manually
+2025-01-09,FCCU,Co Boiler,Fuel Gas,456.56,Sm3,C Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Flue Gas Cooler,Power,1006.74,kWh,B Shift,Startup phase
+2025-06-26,FCCU,Regenerator,Steam,314.4,Ton,B Shift,Avarage value from Normalcondtion
+2025-06-21,FCCU,Reactor,Steam,218.43,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Slurry Pump,Electricity,214.83528735632183,kWh,General,Normal operation
+2025-06-16,FCCU,Air Blower,Electricity,3507.4,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-20,FCCU,Co Boiler,Fuel Gas,440.6,Scm,B Shift,Normal operation
+2025-09-04,FCCU,Wet Gas Compressor,Power,4389.97,kWh,B Shift,Minor fluctuation observed
+2025-03-27,FCCU,Flue Gas Cooler,Electricity,994.59,kWh,C Shift,  
+2025-04-24,FCCU,Feed Preheater,Fuel Gas,281.32,Sm3,B Shift,Minor fluctuation observed
+2025-02-01,FCCU,Slurry Pump,Power,201.17,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-28,FCCU,Regenerator,Steam,347.99,Ton,A Shift,Reading taken manually
+2025-06-19,FCCU,Feed Preheater,Fuel Gas,287.62,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-18,FCCU,Feed Preheater,Fuel Gas,251.33,Scm,C Shift,Unit under maintenance
+2025-02-06,FCCU,Air Blower,Power,3724.11,kWh,B Shift,Normal operation
+2025-03-19,FCCU,Main Fractionator,Steam,126.82,Ton,C Shift,Unit under maintenance
+2025-02-28,FCCU,Feed Preheater,Fuel Gas,291.67,Scm,B Shift,Minor fluctuation observed
+2025-02-14,FCCU,Co Boiler,Fuel Gas,460.75,Scm,General,Startup phase
+2025-03-20,FCCU,Feed Preheater,Fuel Gas,303.48,Scm,B Shift,Startup phase
+2025-02-24,FCCU,Regenerator,Steam,352.1,Ton,A Shift,Startup phase
+2025-06-05,FCCU,Flue Gas Cooler,Power,815.44,kWh,General,Avarage value from Normalcondtion
+2025-02-16,FCCU,Reactor,Steam,188.16,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-14,FCCU,Co Boiler,Fuel Gas,454.36,Scm,C Shift,Reading taken manually
+2025-05-11,FCCU,Regenerator,Steam,357.0,Tons,C Shift,Minor fluctuation observed
+2025-04-30,FCCU,Feed Preheater,Fuel Gas,257.76,Scm,C Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Main Fractionator,Steam,101.46,Ton,General,Reading taken manually
+2025-01-02,FCCU,Wet Gas Compressor,Power,4066.93,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-21,FCCU,Flue Gas Cooler,Electricity,1066.7,kWh,C Shift,Reading taken manually
+2025-03-21,FCCU,Feed Preheater,Fuel Gas,285.32,Sm3,C Shift,Avarage value from Normalcondtion
+2025-05-30,FCCU,Feed Preheater,Fuel Gas,299.58,Sm3,C Shift,Unit under maintenance
+2025-06-25,FCCU,Co Boiler,Fuel Gas,429.14,Scm,A Shift,Avarage value from Normalcondtion
+2025-01-30,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-08,FCCU,Wet Gas Compressor,Power,4447.57,kWh,A Shift,Avarage value from Normalcondtion
+2025-11-03,FCCU,Main Fractionator,Steam,97.14,Ton,General,Minor fluctuation observed
+2025-03-09,FCCU,Reactor,Steam,213.87,Ton,A Shift,Sensor calibration pending
+2025-02-02,FCCU,Feed Preheater,Fuel Gas,304.14,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-02,FCCU,Reactor,Steam,199.81,Tons,C Shift,Avarage value from Normalcondtion
+2025-12-04,FCCU,Slurry Pump,Power,174.38,kWh,A Shift,Startup phase
+2025-01-04,FCCU,Reactor,Steam,218.09,Tons,C Shift,Avarage value from Normalcondtion
+2025-06-04,FCCU,Reactor,Steam,192.68,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-08,FCCU,Slurry Pump,Power,214.83528735632183,kWh,A Shift,Avarage value from Normalcondtion
+2025-09-03,FCCU,Flue Gas Cooler,Electricity,973.44,kWh,C Shift,  
+2025-07-02,FCCU,Main Fractionator,Steam,95.91,Ton,A Shift,Sensor calibration pending
+2025-01-01,FCCU,Air Blower,Power,4080.58,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-01,FCCU,Flue Gas Cooler,Power,1097.75,kWh,General,Avarage value from Normalcondtion
+2025-07-04,FCCU,Regenerator,Steam,340.49,Ton,B Shift,Reading taken manually
+2025-04-08,FCCU,Feed Preheater,Fuel Gas,260.74,Sm3,A Shift,Startup phase
+2025-04-14,FCCU,Flue Gas Cooler,Power,1054.94,kWh,B Shift,Unit under maintenance
+2025-06-15,FCCU,Flue Gas Cooler,Electricity,935.23,kWh,A Shift,Normal operation
+2025-06-03,FCCU,Main Fractionator,Steam,114.55,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-30,FCCU,Regenerator,Steam,307.58,Tons,B Shift,Avarage value from Normalcondtion
+2025-11-06,FCCU,Reactor,Steam,186.04,Ton,A Shift,Minor fluctuation observed
+2025-01-22,FCCU,Feed Preheater,Fuel Gas,259.59,Scm,A Shift,Avarage value from Normalcondtion
+2025-02-09,FCCU,Flue Gas Cooler,Power,1060.24,kWh,C Shift,Minor fluctuation observed
+2025-06-06,FCCU,Main Fractionator,Steam,107.68,Ton,B Shift,  
+2025-02-23,FCCU,Air Blower,Power,4185.49,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-01,FCCU,Feed Preheater,Fuel Gas,251.11,Sm3,B Shift,Avarage value from Normalcondtion
+2025-05-03,FCCU,Wet Gas Compressor,Electricity,4183.49,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-08,FCCU,Flue Gas Cooler,Electricity,975.47,kWh,A Shift,Startup phase
+2025-04-03,FCCU,Wet Gas Compressor,Power,4339.29,kWh,General,Avarage value from Normalcondtion
+2025-01-18,FCCU,Main Fractionator,Steam,118.46,Ton,A Shift,  
+2025-02-09,FCCU,Feed Preheater,Fuel Gas,260.07,Scm,A Shift,Minor fluctuation observed
+2025-12-06,FCCU,Regenerator,Steam,333.71,Ton,A Shift,Normal operation
+2025-01-21,FCCU,Reactor,Steam,205.69,Tons,C Shift,Avarage value from Normalcondtion
+2025-07-02,FCCU,Regenerator,Steam,300.04,Ton,B Shift,Normal operation
+2025-02-13,FCCU,Wet Gas Compressor,Power,4274.05,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-19,FCCU,Air Blower,Power,3998.83,kWh,A Shift,Unit under maintenance
+2025-04-16,FCCU,Main Fractionator,Steam,117.06,Tons,B Shift,Avarage value from Normalcondtion
+2025-05-16,FCCU,Reactor,Steam,203.03,Tons,General,Avarage value from Normalcondtion
+2025-11-06,FCCU,Co Boiler,Fuel Gas,465.07,Scm,A Shift,Normal operation
+2025-01-27,FCCU,Air Blower,Power,4012.94,kWh,B Shift,Reading taken manually
+2025-06-14,FCCU,Air Blower,Electricity,4010.12,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-15,FCCU,Flue Gas Cooler,Electricity,1069.38,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-21,FCCU,Feed Preheater,Fuel Gas,283.63,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-20,FCCU,Feed Preheater,Fuel Gas,251.61,Scm,C Shift,Reading taken manually
+2025-01-29,FCCU,Air Blower,Power,3845.19,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Feed Preheater,Fuel Gas,307.17,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-24,FCCU,Flue Gas Cooler,Electricity,954.58,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-17,FCCU,Co Boiler,Fuel Gas,463.1,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-27,FCCU,Wet Gas Compressor,Power,4390.27,kWh,C Shift,Reading taken manually
+2025-05-22,FCCU,Wet Gas Compressor,Electricity,4296.9,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-20,FCCU,Flue Gas Cooler,Power,1078.17,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-20,FCCU,Reactor,Steam,199.03,Tons,A Shift,Sensor calibration pending
+2025-03-06,FCCU,Flue Gas Cooler,Power,853.22,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Flue Gas Cooler,Electricity,1094.39,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-24,FCCU,Feed Preheater,Fuel Gas,301.33,Scm,B Shift,Sensor calibration pending
+2025-02-16,FCCU,Slurry Pump,Electricity,219.76,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Reactor,Steam,187.04,Ton,General,Startup phase
+2025-04-16,FCCU,Feed Preheater,Fuel Gas,304.79,Scm,C Shift,Unit under maintenance
+2025-03-31,FCCU,Reactor,Steam,217.47,Ton,B Shift,Avarage value from Normalcondtion
+2025-11-03,FCCU,Co Boiler,Fuel Gas,429.23,Scm,General,Reading taken manually
+2025-04-21,FCCU,Reactor,Steam,186.23,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-26,FCCU,Feed Preheater,Fuel Gas,271.02,Sm3,B Shift,Startup phase
+2025-02-24,FCCU,Air Blower,Power,3647.4,kWh,A Shift,Sensor calibration pending
+2025-04-12,FCCU,Flue Gas Cooler,Power,800.93,kWh,General,Avarage value from Normalcondtion
+2025-02-06,FCCU,Co Boiler,Fuel Gas,428.38,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-22,FCCU,Reactor,Steam,194.57,Ton,C Shift,  
+2025-01-16,FCCU,Regenerator,Steam,324.3,Ton,B Shift,Reading taken manually
+2025-02-18,FCCU,Flue Gas Cooler,Power,969.67,kWh,A Shift,Avarage value from Normalcondtion
+2025-09-05,FCCU,Co Boiler,Fuel Gas,405.71,Scm,A Shift,Normal operation
+2025-05-24,FCCU,Air Blower,Power,4179.31,kWh,B Shift,Avarage value from Normalcondtion
+2025-08-01,FCCU,Reactor,Steam,193.89,Ton,B Shift,Startup phase
+2025-06-16,FCCU,Reactor,Steam,188.76,Ton,General,Avarage value from Normalcondtion
+2025-04-27,FCCU,Air Blower,Electricity,3789.05,kWh,C Shift,Minor fluctuation observed
+2025-02-27,FCCU,Reactor,Steam,211.04,Tons,C Shift,Sensor calibration pending
+2025-05-16,FCCU,Regenerator,Steam,359.35,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-07,FCCU,Wet Gas Compressor,Power,4515.82,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-13,FCCU,Reactor,Steam,210.19,Ton,A Shift,Normal operation
+2025-02-24,FCCU,Reactor,Steam,194.2,Tons,C Shift,Reading taken manually
+2025-06-23,FCCU,Main Fractionator,Steam,115.23,Ton,C Shift,  
+2025-01-06,FCCU,Flue Gas Cooler,Electricity,983.8,kWh,General,Sensor calibration pending
+2025-10-05,FCCU,Regenerator,Steam,322.87,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-09,FCCU,Feed Preheater,Fuel Gas,292.6,Scm,C Shift,Avarage value from Normalcondtion
+2025-11-02,FCCU,Air Blower,Power,4162.85,kWh,B Shift,Normal operation
+2025-01-30,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Sm3,C Shift,Avarage value from Normalcondtion
+2025-05-06,FCCU,Regenerator,Steam,326.04,Ton,A Shift,Unit under maintenance
+2025-04-15,FCCU,Flue Gas Cooler,Power,854.2,kWh,B Shift,Reading taken manually
+2025-02-20,FCCU,Flue Gas Cooler,Power,1063.33,kWh,A Shift,Reading taken manually
+2025-03-30,FCCU,Regenerator,Steam,343.92,Ton,B Shift,Normal operation
+2025-05-29,FCCU,Slurry Pump,Power,173.61,kWh,General,Reading taken manually
+2025-02-20,FCCU,Co Boiler,Fuel Gas,447.12,Sm3,C Shift,Unit under maintenance
+2025-03-13,FCCU,Flue Gas Cooler,Electricity,813.0,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Wet Gas Compressor,Electricity,4257.15,kWh,C Shift,  
+2025-03-02,FCCU,Air Blower,Power,4160.9,kWh,C Shift,Minor fluctuation observed
+2025-06-01,FCCU,Reactor,Steam,197.2,Ton,A Shift,Reading taken manually
+2025-01-16,FCCU,Wet Gas Compressor,Power,4318.36,kWh,C Shift,Avarage value from Normalcondtion
+2025-12-03,FCCU,Main Fractionator,Steam,106.22,Ton,B Shift,Reading taken manually
+2025-03-01,FCCU,Slurry Pump,Power,161.92,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-05,FCCU,Reactor,Steam,194.69,Ton,General,Avarage value from Normalcondtion
+2025-06-17,FCCU,Flue Gas Cooler,Power,841.76,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-02,FCCU,Feed Preheater,Fuel Gas,250.56,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-07,FCCU,Co Boiler,Fuel Gas,410.38,Sm3,C Shift,Avarage value from Normalcondtion
+2025-02-01,FCCU,Reactor,Steam,185.71,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-25,FCCU,Feed Preheater,Fuel Gas,305.01,Scm,B Shift,Normal operation
+2025-01-13,FCCU,Slurry Pump,Power,208.09,kWh,General,Avarage value from Normalcondtion
+2025-04-16,FCCU,Wet Gas Compressor,Power,4338.19,kWh,B Shift,Minor fluctuation observed
+2025-10-01,FCCU,Wet Gas Compressor,Electricity,4549.64,kWh,C Shift,Reading taken manually
+2025-03-20,FCCU,Air Blower,Power,4007.1956647398843,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-30,FCCU,Wet Gas Compressor,Power,4428.61,kWh,C Shift,Sensor calibration pending
+2025-05-08,FCCU,Wet Gas Compressor,Power,4496.31,kWh,B Shift,Minor fluctuation observed
+2025-05-05,FCCU,Main Fractionator,Steam,128.51,Tons,C Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Regenerator,Steam,338.05,Ton,General,Avarage value from Normalcondtion
+2025-03-13,FCCU,Slurry Pump,Electricity,160.15,kWh,A Shift,Normal operation
+2025-05-29,FCCU,Main Fractionator,Steam,119.95,Ton,B Shift,Sensor calibration pending
+2025-08-03,FCCU,Slurry Pump,Electricity,193.63,kWh,General,Reading taken manually
+2025-01-21,FCCU,Slurry Pump,Power,156.78,kWh,B Shift,Minor fluctuation observed
+2025-06-23,FCCU,Regenerator,Steam,311.61,Tons,A Shift,Avarage value from Normalcondtion
+2025-03-21,FCCU,Main Fractionator,Steam,113.52,Ton,A Shift,Normal operation
+2025-06-13,FCCU,Main Fractionator,Steam,92.26,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-28,FCCU,Main Fractionator,Steam,129.32,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Reactor,Steam,182.71,Tons,B Shift,Sensor calibration pending
+2025-05-17,FCCU,Main Fractionator,Steam,102.57,Ton,General,Avarage value from Normalcondtion
+2025-03-19,FCCU,Feed Preheater,Fuel Gas,262.55,Sm3,A Shift,Minor fluctuation observed
+2025-03-18,FCCU,Regenerator,Steam,352.35,Tons,C Shift,Avarage value from Normalcondtion
+2025-01-30,FCCU,Wet Gas Compressor,Power,4065.62,kWh,B Shift,Startup phase
+2025-03-15,FCCU,Co Boiler,Fuel Gas,423.32,Scm,B Shift,Sensor calibration pending
+2025-04-03,FCCU,Slurry Pump,Power,179.19,kWh,B Shift,Startup phase
+2025-05-28,FCCU,Wet Gas Compressor,Power,4390.26,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-19,FCCU,Regenerator,Steam,339.52,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-24,FCCU,Slurry Pump,Power,180.93,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Regenerator,Steam,318.3,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-17,FCCU,Flue Gas Cooler,Power,1014.25,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-05,FCCU,Reactor,Steam,198.45,Ton,General,Minor fluctuation observed
+2025-04-26,FCCU,Regenerator,Steam,352.28,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Wet Gas Compressor,Power,4569.15,kWh,B Shift,Normal operation
+2025-05-24,FCCU,Flue Gas Cooler,Power,868.5,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-27,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Flue Gas Cooler,Power,951.62,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-01,FCCU,Wet Gas Compressor,Power,4239.08,kWh,General,Avarage value from Normalcondtion
+2025-02-26,FCCU,Co Boiler,Fuel Gas,443.49,Scm,General,Unit under maintenance
+2025-05-07,FCCU,Feed Preheater,Fuel Gas,306.88,Scm,B Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Flue Gas Cooler,Power,1063.88,kWh,General,Minor fluctuation observed
+2025-04-20,FCCU,Feed Preheater,Fuel Gas,294.29,Sm3,C Shift,Sensor calibration pending
+2025-02-21,FCCU,Regenerator,Steam,359.51,Tons,B Shift,  
+2025-10-02,FCCU,Regenerator,Steam,342.57,Tons,B Shift,Unit under maintenance
+2025-05-15,FCCU,Air Blower,Power,3614.97,kWh,C Shift,Minor fluctuation observed
+2025-04-03,FCCU,Reactor,Steam,195.72,Ton,A Shift,Unit under maintenance
+2025-02-03,FCCU,Co Boiler,Fuel Gas,434.41,Scm,C Shift,Unit under maintenance
+2025-10-02,FCCU,Reactor,Steam,197.67,Ton,A Shift,  
+2025-01-23,FCCU,Co Boiler,Fuel Gas,419.4,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-31,FCCU,Regenerator,Steam,313.93,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-06,FCCU,Air Blower,Electricity,3531.33,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Regenerator,Steam,0.0,Tons,A Shift,Avarage value from Normalcondtion
+2025-01-21,FCCU,Main Fractionator,Steam,100.02,Ton,B Shift,Startup phase
+2025-09-05,FCCU,Feed Preheater,Fuel Gas,274.48,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-26,FCCU,Wet Gas Compressor,Power,4318.52,kWh,B Shift,Unit under maintenance
+2025-03-29,FCCU,Regenerator,Steam,309.26,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-27,FCCU,Reactor,Steam,216.61,Ton,A Shift,Reading taken manually
+2025-04-28,FCCU,Regenerator,Steam,337.09,Ton,B Shift,Minor fluctuation observed
+2025-06-02,FCCU,Feed Preheater,Fuel Gas,267.35,Scm,General,Avarage value from Normalcondtion
+2025-04-06,FCCU,Main Fractionator,Steam,126.01,Ton,B Shift,Normal operation
+2025-01-20,FCCU,Feed Preheater,Fuel Gas,309.6,Sm3,C Shift,Avarage value from Normalcondtion
+2025-12-05,FCCU,Flue Gas Cooler,Power,947.21,kWh,A Shift,Minor fluctuation observed
+2025-03-20,FCCU,Wet Gas Compressor,Electricity,4475.64,kWh,A Shift,Sensor calibration pending
+2025-06-13,FCCU,Wet Gas Compressor,Power,4569.98,kWh,C Shift,Normal operation
+2025-02-01,FCCU,Air Blower,Power,3726.56,kWh,C Shift,Sensor calibration pending
+2025-06-22,FCCU,Co Boiler,Fuel Gas,420.23,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-20,FCCU,Regenerator,Steam,302.09,Ton,C Shift,Normal operation
+2025-06-10,FCCU,Slurry Pump,Power,205.18,kWh,B Shift,Minor fluctuation observed
+2025-04-05,FCCU,Air Blower,Power,3991.1,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Co Boiler,Fuel Gas,470.46,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-13,FCCU,Wet Gas Compressor,Power,4278.53,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Flue Gas Cooler,Electricity,1047.29,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-22,FCCU,Slurry Pump,Power,209.36,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-18,FCCU,Main Fractionator,Steam,129.75,Ton,C Shift,  
+2025-03-14,FCCU,Reactor,Steam,188.09,Tons,A Shift,Avarage value from Normalcondtion
+2025-06-02,FCCU,Slurry Pump,Power,199.24,kWh,B Shift,Unit under maintenance
+2025-06-24,FCCU,Air Blower,Electricity,4070.54,kWh,A Shift,Normal operation
+2025-04-02,FCCU,Wet Gas Compressor,Power,4229.79,kWh,General,Avarage value from Normalcondtion
+2025-05-06,FCCU,Slurry Pump,Power,161.72,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-27,FCCU,Regenerator,Steam,352.61,Ton,A Shift,  
+2025-03-16,FCCU,Reactor,Steam,211.57,Ton,C Shift,  
+2025-05-21,FCCU,Flue Gas Cooler,Electricity,990.43,kWh,B Shift,Avarage value from Normalcondtion
+2025-08-04,FCCU,Reactor,Steam,189.59,Ton,C Shift,Sensor calibration pending
+2025-04-26,FCCU,Reactor,Steam,190.79,Ton,A Shift,Avarage value from Normalcondtion
+2025-09-04,FCCU,Air Blower,Power,3676.36,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-05,FCCU,Reactor,Steam,203.57,Ton,B Shift,Avarage value from Normalcondtion
+2025-11-06,FCCU,Wet Gas Compressor,Electricity,44821.7,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-04,FCCU,Co Boiler,Fuel Gas,424.05,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Air Blower,Electricity,3584.52,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-05,FCCU,Main Fractionator,Steam,125.31,Ton,B Shift,Minor fluctuation observed
+2025-04-06,FCCU,Regenerator,Steam,347.15,Ton,A Shift,Normal operation
+2025-04-17,FCCU,Air Blower,Electricity,3973.92,kWh,A Shift,Sensor calibration pending
+2025-02-22,FCCU,Wet Gas Compressor,Power,4454.48,kWh,A Shift,Unit under maintenance
+2025-03-24,FCCU,Flue Gas Cooler,Electricity,854.11,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-02,FCCU,Main Fractionator,Steam,111.55,Ton,A Shift,Startup phase
+2025-01-03,FCCU,Main Fractionator,Steam,93.88,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-02,FCCU,Co Boiler,Fuel Gas,409.28,Scm,C Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Reactor,Steam,217.95,Tons,B Shift,  
+2025-12-06,FCCU,Feed Preheater,Fuel Gas,310.74,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-16,FCCU,Flue Gas Cooler,Electricity,995.63,kWh,General,Reading taken manually
+2025-02-25,FCCU,Air Blower,Electricity,3631.6,kWh,A Shift,Startup phase
+2025-04-25,FCCU,Regenerator,Steam,345.79,Tons,A Shift,Unit under maintenance
+2025-06-25,FCCU,Regenerator,Steam,335.6,Tons,General,Unit under maintenance
+2025-06-17,FCCU,Regenerator,Steam,348.08,Ton,C Shift,Unit under maintenance
+2025-06-12,FCCU,Air Blower,Electricity,4043.06,kWh,A Shift,Sensor calibration pending
+2025-03-18,FCCU,Flue Gas Cooler,Power,851.66,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-24,FCCU,Wet Gas Compressor,Power,4444.83,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-31,FCCU,Main Fractionator,Steam,108.3,Ton,B Shift,Startup phase
+2025-03-09,FCCU,Wet Gas Compressor,Power,4367.82,kWh,A Shift,Reading taken manually
+2025-06-07,FCCU,Reactor,Steam,207.32,Ton,C Shift,Reading taken manually
+2025-03-14,FCCU,Flue Gas Cooler,Power,1007.95,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Co Boiler,Fuel Gas,426.42,Scm,A Shift,Avarage value from Normalcondtion
+2025-02-17,FCCU,Slurry Pump,Power,187.34,kWh,General,Sensor calibration pending
+2025-06-07,FCCU,Regenerator,Steam,313.43,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-19,FCCU,Co Boiler,Fuel Gas,415.43,Scm,B Shift,Unit under maintenance
+2025-12-02,FCCU,Main Fractionator,Steam,115.07,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-30,FCCU,Reactor,Steam,196.85,Tons,C Shift,Unit under maintenance
+2025-02-15,FCCU,Air Blower,Power,3778.51,kWh,General,Avarage value from Normalcondtion
+2025-04-04,FCCU,Regenerator,Steam,314.59,Ton,C Shift,Unit under maintenance
+2025-06-03,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-08,FCCU,Flue Gas Cooler,Electricity,958.5033333333333,kWh,B Shift,Startup phase
+2025-05-27,FCCU,Slurry Pump,Power,176.63,kWh,B Shift,  
+2025-05-01,FCCU,Slurry Pump,Power,163.43,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-13,FCCU,Slurry Pump,Electricity,164.32,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-09,FCCU,Co Boiler,Fuel Gas,414.85,Scm,A Shift,  
+2025-10-06,FCCU,Flue Gas Cooler,Power,1018.14,kWh,General,Reading taken manually
+2025-06-09,FCCU,Wet Gas Compressor,Power,4331.43,kWh,A Shift,Startup phase
+2025-05-29,FCCU,Wet Gas Compressor,Power,4430.36,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-21,FCCU,Air Blower,Electricity,-3768.79,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Regenerator,Steam,356.12,Ton,A Shift,  
+2025-03-21,FCCU,Flue Gas Cooler,Power,977.56,kWh,B Shift,Reading taken manually
+2025-05-19,FCCU,Flue Gas Cooler,Power,866.51,kWh,C Shift,Normal operation
+2025-04-07,FCCU,Co Boiler,Fuel Gas,423.03,Scm,C Shift,Avarage value from Normalcondtion
+2025-09-01,FCCU,Regenerator,Steam,333.2,Ton,General,  
+2025-02-16,FCCU,Slurry Pump,Electricity,219.76,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-22,FCCU,Wet Gas Compressor,Power,4027.15,kWh,C Shift,Sensor calibration pending
+2025-03-25,FCCU,Air Blower,Electricity,3528.55,kWh,A Shift,Reading taken manually
+2025-08-05,FCCU,Main Fractionator,Steam,117.93,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Air Blower,Power,3897.77,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-13,FCCU,Reactor,Steam,214.79,Ton,C Shift,Sensor calibration pending
+2025-02-24,FCCU,Flue Gas Cooler,Electricity,957.19,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-04,FCCU,Flue Gas Cooler,Power,811.04,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Reactor,Steam,214.88,Tons,C Shift,Avarage value from Normalcondtion
+2025-03-23,FCCU,Feed Preheater,Fuel Gas,279.46,Sm3,C Shift,Reading taken manually
+2025-04-28,FCCU,Reactor,Steam,213.49,Tons,A Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Co Boiler,Fuel Gas,432.05,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Slurry Pump,Power,206.81,kWh,C Shift,Sensor calibration pending
+2025-01-28,FCCU,Regenerator,Steam,327.54,Ton,C Shift,Startup phase
+2025-01-26,FCCU,Co Boiler,Fuel Gas,415.05,Scm,B Shift,Avarage value from Normalcondtion
+2025-01-07,FCCU,Feed Preheater,Fuel Gas,293.49,Scm,A Shift,Unit under maintenance
+2025-03-14,FCCU,Wet Gas Compressor,Power,4148.7,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-09,FCCU,Air Blower,Electricity,3747.04,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-27,FCCU,Wet Gas Compressor,Power,4543.57,kWh,A Shift,  
+2025-02-27,FCCU,Flue Gas Cooler,Power,1038.27,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-25,FCCU,Main Fractionator,Steam,100.57,Tons,C Shift,Sensor calibration pending
+2025-07-03,FCCU,Air Blower,Power,4163.21,kWh,C Shift,Normal operation
+2025-02-20,FCCU,Reactor,Steam,185.12,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-15,FCCU,Slurry Pump,Power,157.21,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-14,FCCU,Feed Preheater,Fuel Gas,307.16,Scm,General,Unit under maintenance
+2025-01-26,FCCU,Regenerator,Steam,314.06,Ton,A Shift,Avarage value from Normalcondtion
+2025-02-01,FCCU,Main Fractionator,Steam,113.84,Ton,B Shift,Avarage value from Normalcondtion
+2025-12-06,FCCU,Slurry Pump,Power,200.59,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-26,FCCU,Flue Gas Cooler,Power,968.72,kWh,B Shift,Minor fluctuation observed
+2025-03-08,FCCU,Flue Gas Cooler,Power,1013.53,kWh,B Shift,Startup phase
+2025-06-11,FCCU,Regenerator,Steam,309.5,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-21,FCCU,Co Boiler,Fuel Gas,450.51,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Co Boiler,Fuel Gas,472.41,Sm3,B Shift,Normal operation
+2025-02-01,FCCU,Flue Gas Cooler,Power,979.68,kWh,C Shift,  
+2025-05-07,FCCU,Slurry Pump,Power,212.83,kWh,C Shift,Normal operation
+2025-01-19,FCCU,Regenerator,Steam,338.14593023255816,Tons,General,Avarage value from Normalcondtion
+2025-05-12,FCCU,Air Blower,Power,3944.34,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-11,FCCU,Air Blower,Electricity,3604.2,kWh,C Shift,Minor fluctuation observed
+2025-04-06,FCCU,Co Boiler,Fuel Gas,434.06,Scm,C Shift,Sensor calibration pending
+2025-01-30,FCCU,Main Fractionator,Steam,113.29,Ton,General,Avarage value from Normalcondtion
+2025-01-07,FCCU,Air Blower,Electricity,3694.78,kWh,General,Avarage value from Normalcondtion
+2025-03-22,FCCU,Slurry Pump,Power,217.89,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-23,FCCU,Wet Gas Compressor,Electricity,4556.5,kWh,General,  
+2025-04-03,FCCU,Slurry Pump,Power,179.19,kWh,B Shift,Startup phase
+2025-05-22,FCCU,Slurry Pump,Power,190.43,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-22,FCCU,Feed Preheater,Fuel Gas,310.56,Scm,C Shift,  
+2025-04-18,FCCU,Regenerator,Steam,306.08,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-28,FCCU,Regenerator,Steam,322.5,Ton,C Shift,Reading taken manually
+2025-08-06,FCCU,Regenerator,Steam,344.62,Ton,A Shift,Normal operation
+2025-11-03,FCCU,Flue Gas Cooler,Power,954.61,kWh,A Shift,Minor fluctuation observed
+2025-02-04,FCCU,Air Blower,Power,3689.88,kWh,B Shift,Startup phase
+2025-04-14,FCCU,Slurry Pump,Power,191.54,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-13,FCCU,Co Boiler,Fuel Gas,478.39,Scm,C Shift,  
+2025-04-18,FCCU,Reactor,Steam,194.23,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-17,FCCU,Co Boiler,Fuel Gas,421.02,Scm,A Shift,Sensor calibration pending
+2025-06-22,FCCU,Slurry Pump,Power,212.79,kWh,A Shift,Normal operation
+2025-06-25,FCCU,Air Blower,Power,4055.98,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-29,FCCU,Air Blower,Electricity,3967.85,kWh,C Shift,  
+2025-02-26,FCCU,Regenerator,Steam,356.17,Tons,C Shift,Sensor calibration pending
+2025-04-15,FCCU,Slurry Pump,Power,186.59,kWh,B Shift,Sensor calibration pending
+2025-02-21,FCCU,Main Fractionator,Steam,113.11,Tons,B Shift,Startup phase
+2025-01-24,FCCU,Co Boiler,Fuel Gas,437.23,Scm,C Shift,  
+2025-01-30,FCCU,Air Blower,Power,41760.0,kWh,B Shift,Sensor calibration pending
+2025-03-25,FCCU,Feed Preheater,Fuel Gas,286.82,Scm,A Shift,Avarage value from Normalcondtion
+2025-12-01,FCCU,Reactor,Steam,191.73,Ton,B Shift,Minor fluctuation observed
+2025-05-17,FCCU,Air Blower,Power,4077.53,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-25,FCCU,Reactor,Steam,214.45,Ton,General,Startup phase
+2025-06-14,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,General,Avarage value from Normalcondtion
+2025-06-29,FCCU,Air Blower,Power,3903.68,kWh,A Shift,Sensor calibration pending
+2025-04-29,FCCU,Air Blower,Power,3910.81,kWh,C Shift,Sensor calibration pending
+2025-03-21,FCCU,Co Boiler,Fuel Gas,470.47,Scm,B Shift,Unit under maintenance
+2025-05-22,FCCU,Main Fractionator,Steam,102.78,Tons,C Shift,Startup phase
+2025-12-05,FCCU,Feed Preheater,Fuel Gas,283.9,Sm3,C Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Slurry Pump,Power,183.71,kWh,B Shift,Startup phase
+2025-06-06,FCCU,Reactor,Steam,184.34,Tons,B Shift,Avarage value from Normalcondtion
+2025-06-02,FCCU,Wet Gas Compressor,Electricity,4036.59,kWh,B Shift,Startup phase
+2025-04-30,FCCU,Slurry Pump,Electricity,196.29,kWh,C Shift,Reading taken manually
+2025-02-17,FCCU,Wet Gas Compressor,Electricity,4501.4,kWh,C Shift,  
+2025-01-01,FCCU,Co Boiler,Fuel Gas,436.98,Scm,C Shift,Sensor calibration pending
+2025-02-26,FCCU,Air Blower,Power,3610.39,kWh,General,Startup phase
+2025-05-13,FCCU,Co Boiler,Fuel Gas,424.12,Sm3,B Shift,Avarage value from Normalcondtion
+2025-01-10,FCCU,Feed Preheater,Fuel Gas,286.29,Scm,A Shift,  
+2025-01-30,FCCU,Regenerator,Steam,308.35,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-26,FCCU,Main Fractionator,Steam,124.55,Ton,C Shift,Minor fluctuation observed
+2025-01-29,FCCU,Wet Gas Compressor,Electricity,4232.68,kWh,B Shift,Unit under maintenance
+2025-06-27,FCCU,Slurry Pump,Power,173.81,kWh,A Shift,  
+2025-03-29,FCCU,Flue Gas Cooler,Power,1070.75,kWh,C Shift,  
+2025-02-03,FCCU,Wet Gas Compressor,Power,4213.23,kWh,B Shift,Avarage value from Normalcondtion
+2025-09-06,FCCU,Slurry Pump,Power,183.32,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Wet Gas Compressor,Electricity,4132.36,kWh,B Shift,  
+2025-05-15,FCCU,Co Boiler,Fuel Gas,446.76,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-22,FCCU,Flue Gas Cooler,Power,1001.5,kWh,General,Avarage value from Normalcondtion
+2025-01-27,FCCU,Feed Preheater,Fuel Gas,254.76,Scm,A Shift,Normal operation
+2025-03-03,FCCU,Regenerator,Steam,336.34,Tons,B Shift,Startup phase
+2025-05-18,FCCU,Wet Gas Compressor,Power,4054.45,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Flue Gas Cooler,Power,861.46,kWh,C Shift,Minor fluctuation observed
+2025-06-20,FCCU,Air Blower,Electricity,3654.68,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Main Fractionator,Steam,107.64,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Slurry Pump,Power,178.22,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Air Blower,Electricity,3544.75,kWh,General,  
+2025-01-14,FCCU,Air Blower,Power,4129.49,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Co Boiler,Fuel Gas,478.62,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-29,FCCU,Regenerator,Steam,318.69,Ton,B Shift,Normal operation
+2025-03-17,FCCU,Feed Preheater,Fuel Gas,284.51,Sm3,C Shift,Unit under maintenance
+2025-04-13,FCCU,Flue Gas Cooler,Electricity,1042.53,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Feed Preheater,Fuel Gas,278.69,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Slurry Pump,Power,197.88,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-03,FCCU,Air Blower,Power,3810.19,kWh,A Shift,Startup phase
+2025-11-05,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,B Shift,Normal operation
+2025-04-10,FCCU,Regenerator,Steam,320.56,Tons,C Shift,Avarage value from Normalcondtion
+2025-06-21,FCCU,Wet Gas Compressor,Power,4507.54,kWh,General,Avarage value from Normalcondtion
+2025-04-25,FCCU,Main Fractionator,Steam,106.04,Tons,B Shift,Reading taken manually
+2025-06-22,FCCU,Wet Gas Compressor,Electricity,4577.26,kWh,B Shift,Unit under maintenance
+2025-01-03,FCCU,Feed Preheater,Fuel Gas,268.56,Scm,A Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Wet Gas Compressor,Power,4037.86,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-01,FCCU,Flue Gas Cooler,Power,1031.92,kWh,General,Avarage value from Normalcondtion
+2025-05-30,FCCU,Reactor,Steam,182.52,Tons,B Shift,Avarage value from Normalcondtion
+2025-06-12,FCCU,Reactor,Steam,208.48,Tons,A Shift,Avarage value from Normalcondtion
+2025-10-05,FCCU,Wet Gas Compressor,Power,4479.4,kWh,C Shift,Avarage value from Normalcondtion
+2025-11-02,FCCU,Main Fractionator,Steam,126.28,Tons,B Shift,Avarage value from Normalcondtion
+2025-01-03,FCCU,Co Boiler,Fuel Gas,459.84,Scm,B Shift,Sensor calibration pending
+2025-03-31,FCCU,Main Fractionator,Steam,123.38,Ton,B Shift,Sensor calibration pending
+2025-06-03,FCCU,Reactor,Steam,188.61,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-21,FCCU,Regenerator,Steam,327.56,Ton,B Shift,Reading taken manually
+2025-05-28,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Sm3,A Shift,Normal operation
+2025-01-02,FCCU,Reactor,Steam,201.99,Ton,General,Sensor calibration pending
+2025-04-24,FCCU,Regenerator,Steam,314.42,Ton,A Shift,Unit under maintenance
+2025-02-20,FCCU,Feed Preheater,Fuel Gas,286.54,Scm,B Shift,Minor fluctuation observed
+2025-05-01,FCCU,Main Fractionator,Steam,124.34,Ton,A Shift,Normal operation
+2025-03-29,FCCU,Reactor,Steam,186.68,Ton,C Shift,Avarage value from Normalcondtion
+2025-12-05,FCCU,Slurry Pump,Electricity,158.11,kWh,A Shift,Normal operation
+2025-04-03,FCCU,Flue Gas Cooler,Power,1092.36,kWh,General,Avarage value from Normalcondtion
+2025-05-09,FCCU,Main Fractionator,Steam,109.21,Tons,A Shift,Unit under maintenance
+2025-06-29,FCCU,Regenerator,Steam,3056.6,Ton,A Shift,Reading taken manually
+2025-05-12,FCCU,Main Fractionator,Steam,94.02,Ton,B Shift,Sensor calibration pending
+2025-03-06,FCCU,Reactor,Steam,204.89830409356725,Tons,B Shift,Startup phase
+2025-03-01,FCCU,Main Fractionator,Steam,109.24,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-18,FCCU,Flue Gas Cooler,Power,847.63,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-01,FCCU,Flue Gas Cooler,Electricity,860.64,kWh,C Shift,  
+2025-03-31,FCCU,Feed Preheater,Fuel Gas,317.37,Scm,General,Avarage value from Normalcondtion
+2025-02-18,FCCU,Reactor,Steam,204.89830409356725,Tons,General,Sensor calibration pending
+2025-06-22,FCCU,Regenerator,Steam,327.74,Tons,C Shift,Avarage value from Normalcondtion
+2025-01-13,FCCU,Co Boiler,Fuel Gas,453.02,Scm,A Shift,Avarage value from Normalcondtion
+2025-02-13,FCCU,Regenerator,Steam,338.14593023255816,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Regenerator,Steam,306.56,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Flue Gas Cooler,Power,881.96,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-25,FCCU,Wet Gas Compressor,Power,4409.32,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-20,FCCU,Co Boiler,Fuel Gas,4788.2,Sm3,B Shift,Avarage value from Normalcondtion
+2025-06-04,FCCU,Slurry Pump,Power,214.55,kWh,C Shift,Unit under maintenance
+2025-04-27,FCCU,Main Fractionator,Steam,94.15,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-22,FCCU,Slurry Pump,Power,175.37,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-22,FCCU,Co Boiler,Fuel Gas,412.48,Sm3,C Shift,Startup phase
+2025-01-10,FCCU,Reactor,Steam,203.8,Tons,A Shift,Avarage value from Normalcondtion
+2025-02-23,FCCU,Regenerator,Steam,323.62,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Co Boiler,Fuel Gas,449.38,Scm,General,Startup phase
+2025-02-15,FCCU,Flue Gas Cooler,Power,1052.92,kWh,C Shift,Sensor calibration pending
+2025-09-02,FCCU,Main Fractionator,Steam,98.08,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-30,FCCU,Main Fractionator,Steam,95.67,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-20,FCCU,Air Blower,Electricity,3650.2,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-10,FCCU,Feed Preheater,Fuel Gas,313.81,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-26,FCCU,Main Fractionator,Steam,93.57,Ton,General,Minor fluctuation observed
+2025-01-16,FCCU,Reactor,Steam,197.45,Ton,C Shift,Unit under maintenance
+2025-03-24,FCCU,Co Boiler,Fuel Gas,405.84,Sm3,B Shift,Reading taken manually
+2025-01-27,FCCU,Wet Gas Compressor,Power,4299.58,kWh,C Shift,  
+2025-03-07,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-24,FCCU,Reactor,Steam,191.42,Tons,C Shift,Unit under maintenance
+2025-01-23,FCCU,Flue Gas Cooler,Power,886.34,kWh,A Shift,Normal operation
+2025-05-15,FCCU,Wet Gas Compressor,Power,4481.69,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-03,FCCU,Feed Preheater,Fuel Gas,311.44,Scm,C Shift,Avarage value from Normalcondtion
+2025-03-12,FCCU,Regenerator,Steam,332.04,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-02,FCCU,Feed Preheater,Fuel Gas,281.44,Sm3,B Shift,Sensor calibration pending
+2025-04-20,FCCU,Slurry Pump,Power,200.58,kWh,C Shift,Startup phase
+2025-06-25,FCCU,Feed Preheater,Fuel Gas,280.47,Scm,C Shift,Sensor calibration pending
+2025-03-20,FCCU,Co Boiler,Fuel Gas,421.07,Scm,C Shift,Normal operation
+2025-01-30,FCCU,Slurry Pump,Power,215.09,kWh,B Shift,Avarage value from Normalcondtion
+2025-08-01,FCCU,Flue Gas Cooler,Power,1016.02,kWh,C Shift,Reading taken manually
+2025-05-21,FCCU,Regenerator,Steam,334.25,Ton,B Shift,  
+2025-03-28,FCCU,Slurry Pump,Electricity,217.39,kWh,General,Unit under maintenance
+2025-03-24,FCCU,Reactor,Steam,211.98,Tons,B Shift,Minor fluctuation observed
+2025-02-23,FCCU,Slurry Pump,Power,174.09,kWh,C Shift,Unit under maintenance
+2025-05-14,FCCU,Regenerator,Steam,325.51,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-12,FCCU,Regenerator,Steam,304.79,Ton,A Shift,Normal operation
+2025-01-03,FCCU,Regenerator,Steam,330.85,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Air Blower,Power,3829.13,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-16,FCCU,Flue Gas Cooler,Power,1059.27,kWh,A Shift,Reading taken manually
+2025-11-04,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,General,Normal operation
+2025-06-03,FCCU,Slurry Pump,Power,214.83528735632183,kWh,B Shift,Sensor calibration pending
+2025-10-04,FCCU,Co Boiler,Fuel Gas,436.29,Sm3,A Shift,Normal operation
+2025-01-16,FCCU,Slurry Pump,Power,192.35,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-24,FCCU,Feed Preheater,Fuel Gas,291.54,Sm3,A Shift,  
+2025-12-06,FCCU,Main Fractionator,Steam,101.82,Ton,B Shift,  
+2025-05-19,FCCU,Wet Gas Compressor,Power,4547.7,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-10,FCCU,Wet Gas Compressor,Electricity,4229.2,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-26,FCCU,Air Blower,Electricity,4174.9,kWh,General,Reading taken manually
+2025-04-09,FCCU,Regenerator,Steam,337.48,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-22,FCCU,Reactor,Steam,202.26,Tons,B Shift,Avarage value from Normalcondtion
+2025-02-26,FCCU,Wet Gas Compressor,Power,4350.82,kWh,A Shift,Unit under maintenance
+2025-03-18,FCCU,Wet Gas Compressor,Power,4061.45,kWh,B Shift,  
+2025-05-25,FCCU,Flue Gas Cooler,Power,896.0,kWh,C Shift,Unit under maintenance
+2025-05-22,FCCU,Regenerator,Steam,312.68,Ton,General,Avarage value from Normalcondtion
+2025-03-18,FCCU,Feed Preheater,Fuel Gas,264.69,Scm,General,  
+2025-03-28,FCCU,Feed Preheater,Fuel Gas,273.64,Scm,B Shift,Avarage value from Normalcondtion
+2025-01-06,FCCU,Feed Preheater,Fuel Gas,302.62,Sm3,General,Sensor calibration pending
+2025-01-17,FCCU,Wet Gas Compressor,Power,4550.05,kWh,C Shift,Minor fluctuation observed
+2025-02-16,FCCU,Co Boiler,Fuel Gas,433.27,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-20,FCCU,Wet Gas Compressor,Power,4373.93,kWh,C Shift,Normal operation
+2025-01-23,FCCU,Main Fractionator,Steam,118.23,Ton,C Shift,Reading taken manually
+2025-03-24,FCCU,Feed Preheater,Fuel Gas,256.0,Scm,C Shift,Minor fluctuation observed
+2025-05-13,FCCU,Feed Preheater,Fuel Gas,0.0,Scm,General,Sensor calibration pending
+2025-03-16,FCCU,Slurry Pump,Power,213.59,kWh,General,Minor fluctuation observed
+2025-02-21,FCCU,Flue Gas Cooler,Power,1017.35,kWh,C Shift,Sensor calibration pending
+2025-06-09,FCCU,Regenerator,Steam,338.14593023255816,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-02,FCCU,Flue Gas Cooler,Power,808.79,kWh,General,Reading taken manually
+2025-03-14,FCCU,Regenerator,Steam,313.19,Tons,General,Startup phase
+2025-02-03,FCCU,Wet Gas Compressor,Power,4457.64,kWh,A Shift,Unit under maintenance
+2025-05-15,FCCU,Regenerator,Steam,310.24,Ton,C Shift,Sensor calibration pending
+2025-01-02,FCCU,Feed Preheater,Fuel Gas,284.26,Scm,A Shift,Minor fluctuation observed
+2025-01-07,FCCU,Wet Gas Compressor,Power,4385.65,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-04,FCCU,Wet Gas Compressor,Electricity,-4380.12,kWh,B Shift,Startup phase
+2025-11-05,FCCU,Co Boiler,Fuel Gas,476.79,Scm,A Shift,Reading taken manually
+2025-05-20,FCCU,Wet Gas Compressor,Power,4090.23,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Regenerator,Steam,307.85,Ton,General,Avarage value from Normalcondtion
+2025-03-01,FCCU,Slurry Pump,Power,209.59,kWh,General,Avarage value from Normalcondtion
+2025-04-21,FCCU,Co Boiler,Fuel Gas,450.2,Sm3,A Shift,Sensor calibration pending
+2025-05-28,FCCU,Feed Preheater,Fuel Gas,275.55,Scm,A Shift,Reading taken manually
+2025-05-18,FCCU,Feed Preheater,Fuel Gas,280.73,Scm,C Shift,Minor fluctuation observed
+2025-04-29,FCCU,Slurry Pump,Electricity,172.24,kWh,General,Reading taken manually
+2025-01-23,FCCU,Slurry Pump,Power,150.36,kWh,A Shift,Startup phase
+2025-05-03,FCCU,Slurry Pump,Electricity,156.72,kWh,B Shift,Startup phase
+2025-06-17,FCCU,Air Blower,Power,3656.4,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Slurry Pump,Electricity,207.91,kWh,C Shift,Minor fluctuation observed
+2025-05-14,FCCU,Co Boiler,Fuel Gas,469.71,Scm,B Shift,  
+2025-02-06,FCCU,Flue Gas Cooler,Electricity,960.61,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-24,FCCU,Air Blower,Electricity,3833.87,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-14,FCCU,Air Blower,Electricity,3561.61,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-06,FCCU,Main Fractionator,Steam,123.52,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Reactor,Steam,190.96,Ton,C Shift,Sensor calibration pending
+2025-02-28,FCCU,Air Blower,Power,3609.27,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-18,FCCU,Feed Preheater,Fuel Gas,283.56,Scm,A Shift,Startup phase
+2025-01-01,FCCU,Regenerator,Steam,313.12,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-26,FCCU,Air Blower,Power,3709.92,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-28,FCCU,Flue Gas Cooler,Power,945.96,kWh,A Shift,Minor fluctuation observed
+2025-05-16,FCCU,Feed Preheater,Fuel Gas,276.77,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Regenerator,Steam,342.71,Ton,General,Avarage value from Normalcondtion
+2025-04-02,FCCU,Regenerator,Steam,340.36,Ton,C Shift,Reading taken manually
+2025-05-22,FCCU,Co Boiler,Fuel Gas,436.62,Scm,A Shift,Avarage value from Normalcondtion
+2025-06-08,FCCU,Wet Gas Compressor,Electricity,4419.92,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-17,FCCU,Reactor,Steam,206.3,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-05,FCCU,Slurry Pump,Power,190.27,kWh,C Shift,Avarage value from Normalcondtion
+2025-10-06,FCCU,Regenerator,Steam,342.17,Ton,C Shift,  
+2025-01-17,FCCU,Slurry Pump,Power,197.35,kWh,C Shift,  
+2025-03-03,FCCU,Flue Gas Cooler,Electricity,1016.06,kWh,B Shift,Unit under maintenance
+2025-06-16,FCCU,Main Fractionator,Steam,99.67,Tons,B Shift,Startup phase
+2025-06-23,FCCU,Wet Gas Compressor,Power,4530.12,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Wet Gas Compressor,Power,4192.43,kWh,B Shift,Minor fluctuation observed
+2025-09-05,FCCU,Air Blower,Power,3662.87,kWh,B Shift,Reading taken manually
+2025-01-14,FCCU,Feed Preheater,Fuel Gas,277.91,Scm,C Shift,Startup phase
+2025-08-02,FCCU,Main Fractionator,Steam,103.52,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Slurry Pump,Power,173.77,kWh,A Shift,Sensor calibration pending
+2025-06-04,FCCU,Wet Gas Compressor,Electricity,4566.41,kWh,B Shift,Normal operation
+2025-05-08,FCCU,Co Boiler,Fuel Gas,468.68,Sm3,B Shift,Avarage value from Normalcondtion
+2025-03-22,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,General,Avarage value from Normalcondtion
+2025-11-05,FCCU,Feed Preheater,Fuel Gas,314.72,Scm,B Shift,Sensor calibration pending
+2025-06-19,FCCU,Wet Gas Compressor,Electricity,4167.11,kWh,B Shift,  
+2025-05-22,FCCU,Air Blower,Power,4034.05,kWh,A Shift,Minor fluctuation observed
+2025-05-15,FCCU,Reactor,Steam,210.28,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-11,FCCU,Flue Gas Cooler,Power,904.2,kWh,A Shift,Reading taken manually
+2025-01-06,FCCU,Main Fractionator,Steam,101.07,Ton,C Shift,Startup phase
+2025-06-14,FCCU,Main Fractionator,Steam,114.07,Ton,B Shift,Unit under maintenance
+2025-05-04,FCCU,Slurry Pump,Power,170.65,kWh,A Shift,Reading taken manually
+2025-10-04,FCCU,Wet Gas Compressor,Power,4141.79,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-24,FCCU,Flue Gas Cooler,Power,1085.85,kWh,C Shift,Startup phase
+2025-05-29,FCCU,Flue Gas Cooler,Power,1024.38,kWh,General,Avarage value from Normalcondtion
+2025-02-13,FCCU,Reactor,Steam,191.31,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-26,FCCU,Regenerator,Steam,319.39,Tons,B Shift,Minor fluctuation observed
+2025-02-13,FCCU,Air Blower,Power,3798.2,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-31,FCCU,Wet Gas Compressor,Power,4053.59,kWh,A Shift,Avarage value from Normalcondtion
+2025-11-01,FCCU,Flue Gas Cooler,Electricity,804.6,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-31,FCCU,Main Fractionator,Steam,108.3,Ton,B Shift,Startup phase
+2025-03-16,FCCU,Wet Gas Compressor,Power,4320.19,kWh,A Shift,  
+2025-03-18,FCCU,Reactor,Steam,191.67,Tons,B Shift,  
+2025-03-03,FCCU,Slurry Pump,Power,182.45,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Reactor,Steam,203.99,Ton,C Shift,  
+2025-11-06,FCCU,Flue Gas Cooler,Electricity,911.0,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-16,FCCU,Regenerator,Steam,338.14593023255816,Tons,A Shift,Minor fluctuation observed
+2025-03-23,FCCU,Flue Gas Cooler,Electricity,941.33,kWh,C Shift,Minor fluctuation observed
+2025-04-21,FCCU,Wet Gas Compressor,Power,4273.01,kWh,C Shift,Sensor calibration pending
+2025-04-22,FCCU,Regenerator,Steam,336.94,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-05,FCCU,Feed Preheater,Fuel Gas,309.64,Scm,A Shift,Reading taken manually
+2025-02-19,FCCU,Wet Gas Compressor,Power,4456.88,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-17,FCCU,Co Boiler,Fuel Gas,473.12,Sm3,General,Avarage value from Normalcondtion
+2025-06-20,FCCU,Reactor,Steam,181.64,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-17,FCCU,Regenerator,Steam,340.73,Tons,C Shift,Avarage value from Normalcondtion
+2025-03-20,FCCU,Regenerator,Steam,329.84,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-21,FCCU,Reactor,Steam,194.05,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-28,FCCU,Flue Gas Cooler,Power,1059.9,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-18,FCCU,Flue Gas Cooler,Power,897.47,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-02,FCCU,Wet Gas Compressor,Power,4031.07,kWh,General,Avarage value from Normalcondtion
+2025-02-01,FCCU,Slurry Pump,Power,180.67,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-17,FCCU,Feed Preheater,Fuel Gas,289.63,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Co Boiler,Fuel Gas,443.07,Scm,A Shift,Sensor calibration pending
+2025-01-16,FCCU,Feed Preheater,Fuel Gas,285.51,Sm3,A Shift,Normal operation
+2025-11-04,FCCU,Air Blower,Power,3951.08,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-28,FCCU,Feed Preheater,Fuel Gas,297.39,Scm,C Shift,Avarage value from Normalcondtion
+2025-06-14,FCCU,Feed Preheater,Fuel Gas,258.42,Scm,General,Avarage value from Normalcondtion
+2025-11-02,FCCU,Regenerator,Steam,348.33,Ton,C Shift,Normal operation
+2025-09-06,FCCU,Feed Preheater,Fuel Gas,294.17,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-17,FCCU,Wet Gas Compressor,Electricity,4426.15,kWh,B Shift,Minor fluctuation observed
+2025-03-18,FCCU,Main Fractionator,Steam,121.98934523809524,Tons,B Shift,Avarage value from Normalcondtion
+2025-07-02,FCCU,Reactor,Steam,204.89830409356725,Tons,A Shift,Avarage value from Normalcondtion
+2025-01-26,FCCU,Reactor,Steam,189.63,Ton,A Shift,Unit under maintenance
+2025-04-13,FCCU,Air Blower,Power,3950.79,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-07,FCCU,Air Blower,Power,3590.95,kWh,C Shift,Startup phase
+2025-01-26,FCCU,Slurry Pump,Power,164.83,kWh,C Shift,  
+2025-03-05,FCCU,Slurry Pump,Electricity,212.44,kWh,General,Minor fluctuation observed
+2025-05-02,FCCU,Regenerator,Steam,353.84,Ton,C Shift,Reading taken manually
+2025-01-25,FCCU,Flue Gas Cooler,Electricity,853.99,kWh,C Shift,Startup phase
+2025-01-20,FCCU,Co Boiler,Fuel Gas,418.94,Scm,B Shift,Normal operation
+2025-11-06,FCCU,Main Fractionator,Steam,109.49,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-25,FCCU,Flue Gas Cooler,Power,828.07,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Air Blower,Power,3580.8,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-28,FCCU,Main Fractionator,Steam,97.46,Tons,B Shift,Sensor calibration pending
+2025-02-22,FCCU,Reactor,Steam,201.98,Ton,B Shift,Normal operation
+2025-01-14,FCCU,Wet Gas Compressor,Power,4274.83,kWh,A Shift,Minor fluctuation observed
+2025-03-14,FCCU,Co Boiler,Fuel Gas,414.8,Scm,C Shift,Startup phase
+2025-05-21,FCCU,Wet Gas Compressor,Power,4406.92,kWh,A Shift,  
+2025-01-18,FCCU,Flue Gas Cooler,Power,811.49,kWh,General,Avarage value from Normalcondtion
+2025-06-09,FCCU,Main Fractionator,Steam,117.87,Tons,General,  
+2025-05-28,FCCU,Main Fractionator,Steam,106.01,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-20,FCCU,Main Fractionator,Steam,121.24,Tons,C Shift,Avarage value from Normalcondtion
+2025-12-03,FCCU,Co Boiler,Fuel Gas,413.44,Scm,B Shift,Unit under maintenance
+2025-03-30,FCCU,Slurry Pump,Power,158.24,kWh,C Shift,Reading taken manually
+2025-04-07,FCCU,Flue Gas Cooler,Power,950.74,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-05,FCCU,Reactor,Steam,208.46,Tons,B Shift,Startup phase
+2025-06-03,FCCU,Regenerator,Steam,338.14593023255816,Ton,A Shift,Startup phase
+2025-02-15,FCCU,Slurry Pump,Power,153.71,kWh,General,Avarage value from Normalcondtion
+2025-12-06,FCCU,Flue Gas Cooler,Power,936.78,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-17,FCCU,Reactor,Steam,181.57,Ton,B Shift,Sensor calibration pending
+2025-06-05,FCCU,Co Boiler,Fuel Gas,410.31,Scm,A Shift,Avarage value from Normalcondtion
+2025-01-26,FCCU,Wet Gas Compressor,Power,4375.6,kWh,C Shift,Startup phase
+2025-05-16,FCCU,Wet Gas Compressor,Electricity,4226.39,kWh,C Shift,Sensor calibration pending
+2025-05-26,FCCU,Air Blower,Power,3539.28,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-22,FCCU,Flue Gas Cooler,Power,1038.47,kWh,General,Avarage value from Normalcondtion
+2025-04-10,FCCU,Flue Gas Cooler,Power,919.47,kWh,B Shift,Unit under maintenance
+2025-04-14,FCCU,Regenerator,Steam,337.86,Ton,A Shift,Avarage value from Normalcondtion
+2025-12-03,FCCU,Wet Gas Compressor,Power,4451.518938547486,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-06,FCCU,Co Boiler,Fuel Gas,451.11,Sm3,C Shift,Avarage value from Normalcondtion
+2025-05-06,FCCU,Main Fractionator,Steam,125.73,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-24,FCCU,Co Boiler,Fuel Gas,479.76,Scm,B Shift,Startup phase
+2025-10-04,FCCU,Main Fractionator,Steam,115.19,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-18,FCCU,Air Blower,Power,4130.7,kWh,A Shift,Startup phase
+2025-12-01,FCCU,Feed Preheater,Fuel Gas,280.09079096045195,Sm3,C Shift,Avarage value from Normalcondtion
+2025-03-28,FCCU,Flue Gas Cooler,Power,1099.78,kWh,C Shift,Avarage value from Normalcondtion
+2025-07-02,FCCU,Flue Gas Cooler,Power,1020.2,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-17,FCCU,Feed Preheater,Fuel Gas,285.54,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Reactor,Steam,194.14,Ton,General,Avarage value from Normalcondtion
+2025-03-06,FCCU,Feed Preheater,Fuel Gas,298.09,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-25,FCCU,Slurry Pump,Power,181.48,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-13,FCCU,Feed Preheater,Fuel Gas,298.29,Scm,General,Avarage value from Normalcondtion
+2025-04-28,FCCU,Slurry Pump,Power,210.68,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-19,FCCU,Regenerator,Steam,358.51,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-11,FCCU,Reactor,Steam,192.31,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-11,FCCU,Slurry Pump,Electricity,182.39,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-16,FCCU,Slurry Pump,Power,194.92,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-17,FCCU,Wet Gas Compressor,Power,4543.43,kWh,B Shift,Avarage value from Normalcondtion
+2025-11-01,FCCU,Regenerator,Steam,351.84,Ton,A Shift,Normal operation
+2025-02-21,FCCU,Slurry Pump,Power,204.58,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-06,FCCU,Regenerator,Steam,349.99,Ton,B Shift,Reading taken manually
+2025-03-18,FCCU,Slurry Pump,Power,196.73,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-25,FCCU,Reactor,Steam,190.41,Ton,A Shift,Avarage value from Normalcondtion
+2025-10-03,FCCU,Main Fractionator,Steam,105.19,Ton,B Shift,Sensor calibration pending
+2025-10-03,FCCU,Co Boiler,Fuel Gas,404.55,Scm,B Shift,Unit under maintenance
+2025-03-15,FCCU,Reactor,Steam,209.43,Tons,C Shift,Normal operation
+2025-04-23,FCCU,Flue Gas Cooler,Power,981.25,kWh,A Shift,Minor fluctuation observed
+2025-03-02,FCCU,Feed Preheater,Fuel Gas,271.71,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Feed Preheater,Fuel Gas,275.02,Scm,B Shift,Unit under maintenance
+2025-05-06,FCCU,Slurry Pump,Power,159.75,kWh,General,Startup phase
+2025-03-26,FCCU,Feed Preheater,Fuel Gas,315.15,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-13,FCCU,Reactor,Steam,208.27,Ton,C Shift,  
+2025-02-17,FCCU,Co Boiler,Fuel Gas,423.19,Scm,C Shift,  
+2025-05-18,FCCU,Reactor,Steam,213.41,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-12,FCCU,Slurry Pump,Electricity,214.83528735632183,kWh,A Shift,Avarage value from Normalcondtion
+2025-07-03,FCCU,Regenerator,Steam,301.74,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-18,FCCU,Regenerator,Steam,346.34,Tons,C Shift,Avarage value from Normalcondtion
+2025-10-03,FCCU,Reactor,Steam,189.52,Ton,B Shift,Unit under maintenance
+2025-06-29,FCCU,Co Boiler,Fuel Gas,447.26,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-19,FCCU,Main Fractionator,Steam,96.17,Ton,A Shift,Reading taken manually
+2025-04-28,FCCU,Feed Preheater,Fuel Gas,250.71,Sm3,B Shift,Avarage value from Normalcondtion
+2025-04-12,FCCU,Reactor,Steam,210.0,Ton,General,Minor fluctuation observed
+2025-02-21,FCCU,Air Blower,Power,4076.28,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-23,FCCU,Main Fractionator,Steam,126.13,Tons,B Shift,Reading taken manually
+2025-02-01,FCCU,Co Boiler,Fuel Gas,442.21,Sm3,B Shift,  
+2025-05-26,FCCU,Slurry Pump,Power,167.88,kWh,A Shift,Startup phase
+2025-03-07,FCCU,Main Fractionator,Steam,114.65,Ton,C Shift,  
+2025-02-02,FCCU,Air Blower,Electricity,3554.56,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-22,FCCU,Main Fractionator,Steam,95.44,Ton,A Shift,Startup phase
+2025-08-01,FCCU,Wet Gas Compressor,Power,4528.98,kWh,B Shift,Startup phase
+2025-03-22,FCCU,Air Blower,Electricity,4047.56,kWh,C Shift,Unit under maintenance
+2025-08-03,FCCU,Reactor,Steam,184.57,Ton,A Shift,Reading taken manually
+2025-06-03,FCCU,Main Fractionator,Steam,118.21,Tons,A Shift,Avarage value from Normalcondtion
+2025-11-02,FCCU,Slurry Pump,Power,194.17,kWh,A Shift,Reading taken manually
+2025-02-27,FCCU,Feed Preheater,Fuel Gas,317.24,Scm,B Shift,Minor fluctuation observed
+2025-01-06,FCCU,Wet Gas Compressor,Electricity,4296.63,kWh,A Shift,  
+2025-06-24,FCCU,Slurry Pump,Power,196.62,kWh,C Shift,Normal operation
+2025-06-26,FCCU,Reactor,Steam,180.3,Ton,A Shift,Avarage value from Normalcondtion
+2025-08-04,FCCU,Co Boiler,Fuel Gas,431.25,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-13,FCCU,Slurry Pump,Electricity,159.18,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-12,FCCU,Co Boiler,Fuel Gas,401.33,Sm3,General,Avarage value from Normalcondtion
+2025-02-12,FCCU,Regenerator,Steam,332.03,Ton,C Shift,  
+2025-03-31,FCCU,Air Blower,Electricity,4015.14,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-12,FCCU,Flue Gas Cooler,Power,982.12,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-07,FCCU,Reactor,Steam,214.27,Ton,A Shift,Normal operation
+2025-01-15,FCCU,Regenerator,Steam,350.71,Ton,B Shift,Startup phase
+2025-03-24,FCCU,Wet Gas Compressor,Electricity,4464.02,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-05,FCCU,Air Blower,Power,3694.84,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-17,FCCU,Wet Gas Compressor,Power,4289.29,kWh,C Shift,  
+2025-05-19,FCCU,Feed Preheater,Fuel Gas,314.02,Scm,B Shift,Avarage value from Normalcondtion
+2025-01-27,FCCU,Flue Gas Cooler,Power,957.18,kWh,General,Startup phase
+2025-04-05,FCCU,Flue Gas Cooler,Power,952.58,kWh,B Shift,Normal operation
+2025-05-04,FCCU,Wet Gas Compressor,Power,4200.09,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-18,FCCU,Co Boiler,Fuel Gas,438.6,Sm3,B Shift,  
+2025-01-16,FCCU,Air Blower,Power,4032.15,kWh,General,Startup phase
+2025-02-03,FCCU,Regenerator,Steam,330.51,Ton,A Shift,Unit under maintenance
+2025-06-27,FCCU,Regenerator,Steam,333.65,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Main Fractionator,Steam,95.9,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-17,FCCU,Slurry Pump,Power,182.27,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Reactor,Steam,206.11,Ton,General,Startup phase
+2025-09-04,FCCU,Co Boiler,Fuel Gas,449.31,Scm,C Shift,Minor fluctuation observed
+2025-05-12,FCCU,Wet Gas Compressor,Electricity,4523.27,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-06,FCCU,Regenerator,Steam,305.93,Tons,C Shift,Reading taken manually
+2025-06-10,FCCU,Co Boiler,Fuel Gas,437.09,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Air Blower,Power,4139.08,kWh,A Shift,Normal operation
+2025-02-20,FCCU,Slurry Pump,Power,169.83,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-02,FCCU,Reactor,Steam,206.52,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Main Fractionator,Steam,110.34,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-16,FCCU,Wet Gas Compressor,Power,4072.65,kWh,A Shift,Avarage value from Normalcondtion
+2025-07-06,FCCU,Slurry Pump,Power,178.79,kWh,B Shift,  
+2025-02-04,FCCU,Flue Gas Cooler,Electricity,820.68,kWh,General,Avarage value from Normalcondtion
+2025-01-28,FCCU,Air Blower,Electricity,3689.77,kWh,C Shift,Sensor calibration pending
+2025-01-14,FCCU,Regenerator,Steam,347.4,Tons,B Shift,Avarage value from Normalcondtion
+2025-05-27,FCCU,Feed Preheater,Fuel Gas,304.56,Scm,C Shift,Normal operation
+2025-06-01,FCCU,Reactor,Steam,212.53,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-02,FCCU,Reactor,Steam,202.14,Ton,General,Avarage value from Normalcondtion
+2025-04-19,FCCU,Feed Preheater,Fuel Gas,266.68,Sm3,A Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Main Fractionator,Steam,109.07,Ton,B Shift,Normal operation
+2025-01-24,FCCU,Slurry Pump,Power,193.02,kWh,B Shift,Reading taken manually
+2025-03-12,FCCU,Feed Preheater,Fuel Gas,272.51,Scm,A Shift,Unit under maintenance
+2025-05-21,FCCU,Air Blower,Power,3568.0,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-21,FCCU,Reactor,Steam,204.89830409356725,Tons,C Shift,Avarage value from Normalcondtion
+2025-10-06,FCCU,Reactor,Steam,197.7,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-06,FCCU,Regenerator,Steam,308.65,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-18,FCCU,Main Fractionator,Steam,96.44,Ton,B Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Wet Gas Compressor,Electricity,4114.08,kWh,B Shift,Normal operation
+2025-03-13,FCCU,Main Fractionator,Steam,121.98934523809524,Tons,B Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Slurry Pump,Power,162.94,kWh,B Shift,Sensor calibration pending
+2025-05-20,FCCU,Slurry Pump,Electricity,152.84,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-07,FCCU,Reactor,Steam,217.73,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Flue Gas Cooler,Power,973.59,kWh,A Shift,Normal operation
+2025-04-26,FCCU,Main Fractionator,Steam,103.68,Ton,C Shift,Minor fluctuation observed
+2025-05-13,FCCU,Wet Gas Compressor,Power,4568.73,kWh,B Shift,Sensor calibration pending
+2025-06-21,FCCU,Flue Gas Cooler,Power,922.84,kWh,General,Avarage value from Normalcondtion
+2025-02-18,FCCU,Slurry Pump,Power,212.45,kWh,General,Unit under maintenance
+2025-04-06,FCCU,Feed Preheater,Fuel Gas,259.73,Sm3,C Shift,Avarage value from Normalcondtion
+2025-10-06,FCCU,Wet Gas Compressor,Power,4168.87,kWh,A Shift,Normal operation
+2025-02-10,FCCU,Air Blower,Power,4024.27,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-11,FCCU,Wet Gas Compressor,Power,4566.86,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-29,FCCU,Slurry Pump,Power,207.15,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-30,FCCU,Wet Gas Compressor,Electricity,4047.86,kWh,A Shift,Minor fluctuation observed
+2025-03-29,FCCU,Wet Gas Compressor,Electricity,4472.33,kWh,A Shift,Reading taken manually
+2025-01-20,FCCU,Slurry Pump,Power,154.6,kWh,A Shift,Sensor calibration pending
+2025-12-01,FCCU,Wet Gas Compressor,Power,4119.53,kWh,B Shift,Minor fluctuation observed
+2025-01-25,FCCU,Regenerator,Steam,303.71,Ton,B Shift,Sensor calibration pending
+2025-04-11,FCCU,Feed Preheater,Fuel Gas,294.53,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-23,FCCU,Co Boiler,Fuel Gas,462.96,Scm,B Shift,Startup phase
+2025-10-06,FCCU,Feed Preheater,Fuel Gas,265.97,Scm,A Shift,Reading taken manually
+2025-05-12,FCCU,Reactor,Steam,219.72,Ton,C Shift,  
+2025-03-19,FCCU,Slurry Pump,Electricity,158.59,kWh,C Shift,  
+2025-05-15,FCCU,Feed Preheater,Fuel Gas,291.61,Scm,B Shift,Normal operation
+2025-02-13,FCCU,Slurry Pump,Power,210.38,kWh,B Shift,Reading taken manually
+2025-04-22,FCCU,Co Boiler,Fuel Gas,430.77,Scm,B Shift,  
+2025-03-28,FCCU,Co Boiler,Fuel Gas,461.61,Scm,General,Avarage value from Normalcondtion
+2025-10-06,FCCU,Main Fractionator,Steam,110.27,Ton,General,Normal operation
+2025-05-14,FCCU,Flue Gas Cooler,Power,862.3,kWh,A Shift,Avarage value from Normalcondtion
+2025-11-03,FCCU,Regenerator,Steam,322.97,Ton,General,Avarage value from Normalcondtion
+2025-02-15,FCCU,Main Fractionator,Steam,112.13,Ton,B Shift,  
+2025-02-14,FCCU,Wet Gas Compressor,Electricity,4192.38,kWh,B Shift,Avarage value from Normalcondtion
+2025-11-02,FCCU,Reactor,Steam,205.62,Tons,C Shift,Startup phase
+2025-01-24,FCCU,Regenerator,Steam,325.07,Ton,A Shift,Minor fluctuation observed
+2025-04-11,FCCU,Regenerator,Steam,346.28,Tons,C Shift,Reading taken manually
+2025-07-01,FCCU,Main Fractionator,Steam,118.97,Ton,B Shift,Sensor calibration pending
+2025-01-22,FCCU,Slurry Pump,Power,197.17,kWh,General,Avarage value from Normalcondtion
+2025-06-25,FCCU,Flue Gas Cooler,Power,844.3,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-01,FCCU,Reactor,Steam,204.89830409356725,Ton,C Shift,Startup phase
+2025-04-07,FCCU,Main Fractionator,Steam,101.35,Ton,A Shift,Reading taken manually
+2025-03-05,FCCU,Air Blower,Power,4167.58,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-18,FCCU,Air Blower,Power,3969.91,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-06,FCCU,Reactor,Steam,195.4,Tons,General,Startup phase
+2025-03-26,FCCU,Slurry Pump,Power,214.21,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-14,FCCU,Main Fractionator,Steam,109.05,Ton,A Shift,Reading taken manually
+2025-04-26,FCCU,Flue Gas Cooler,Electricity,1080.15,kWh,General,Startup phase
+2025-03-20,FCCU,Slurry Pump,Power,158.97,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Main Fractionator,Steam,107.54,Ton,General,Minor fluctuation observed
+2025-01-05,FCCU,Feed Preheater,Fuel Gas,280.89,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-26,FCCU,Flue Gas Cooler,Electricity,1043.3,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-31,FCCU,Slurry Pump,Power,176.74,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Air Blower,Electricity,4007.1956647398843,kWh,C Shift,Normal operation
+2025-05-04,FCCU,Main Fractionator,Steam,108.51,Ton,General,Avarage value from Normalcondtion
+2025-03-06,FCCU,Feed Preheater,Fuel Gas,273.78,Scm,A Shift,Unit under maintenance
+2025-02-26,FCCU,Reactor,Steam,189.89,Ton,C Shift,  
+2025-06-09,FCCU,Reactor,Steam,193.5,Ton,C Shift,Reading taken manually
+2025-06-13,FCCU,Co Boiler,Fuel Gas,426.76,Sm3,A Shift,Startup phase
+2025-05-15,FCCU,Main Fractionator,Steam,118.8,Tons,C Shift,Unit under maintenance
+2025-03-30,FCCU,Air Blower,Electricity,4079.91,kWh,B Shift,Reading taken manually
+2025-01-03,FCCU,Wet Gas Compressor,Electricity,4436.93,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Co Boiler,Fuel Gas,444.46,Scm,A Shift,Avarage value from Normalcondtion
+2025-02-11,FCCU,Feed Preheater,Fuel Gas,283.06,Scm,C Shift,Minor fluctuation observed
+2025-05-04,FCCU,Wet Gas Compressor,Power,4457.85,kWh,C Shift,  
+2025-11-06,FCCU,Feed Preheater,Fuel Gas,288.85,Sm3,B Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Slurry Pump,Power,217.58,kWh,A Shift,Sensor calibration pending
+2025-04-18,FCCU,Slurry Pump,Power,210.49,kWh,General,Minor fluctuation observed
+2025-06-22,FCCU,Flue Gas Cooler,Electricity,912.78,kWh,B Shift,  
+2025-05-28,FCCU,Reactor,Steam,186.52,Ton,C Shift,Unit under maintenance
+2025-06-25,FCCU,Wet Gas Compressor,Power,4399.01,kWh,C Shift,Sensor calibration pending
+2025-01-25,FCCU,Wet Gas Compressor,Power,4335.28,kWh,A Shift,Minor fluctuation observed
+2025-03-25,FCCU,Regenerator,Steam,318.8,Ton,General,Avarage value from Normalcondtion
+2025-04-08,FCCU,Air Blower,Electricity,3839.33,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-26,FCCU,Co Boiler,Fuel Gas,478.73,Scm,B Shift,Sensor calibration pending
+2025-06-25,FCCU,Slurry Pump,Electricity,204.86,kWh,General,Normal operation
+2025-05-01,FCCU,Regenerator,Steam,346.94,Tons,C Shift,  
+2025-01-30,FCCU,Reactor,Steam,217.72,Ton,General,Avarage value from Normalcondtion
+2025-01-11,FCCU,Air Blower,Power,4007.1956647398843,kWh,B Shift,Unit under maintenance
+2025-04-26,FCCU,Co Boiler,Fuel Gas,417.29,Scm,C Shift,Unit under maintenance
+2025-06-03,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Sm3,B Shift,Avarage value from Normalcondtion
+2025-02-08,FCCU,Wet Gas Compressor,Power,4032.13,kWh,A Shift,Avarage value from Normalcondtion
+2025-08-02,FCCU,Regenerator,Steam,317.69,Ton,A Shift,Normal operation
+2025-01-02,FCCU,Main Fractionator,Steam,124.49,Tons,A Shift,  
+2025-04-25,FCCU,Air Blower,Power,3608.19,kWh,B Shift,Minor fluctuation observed
+2025-01-28,FCCU,Main Fractionator,Steam,106.21,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-09,FCCU,Wet Gas Compressor,Electricity,4044.45,kWh,B Shift,  
+2025-05-24,FCCU,Main Fractionator,Steam,114.35,Tons,B Shift,Normal operation
+2025-08-05,FCCU,Feed Preheater,Fuel Gas,303.01,Scm,A Shift,Minor fluctuation observed
+2025-10-03,FCCU,Air Blower,Power,3734.48,kWh,C Shift,Unit under maintenance
+2025-03-11,FCCU,Reactor,Steam,205.55,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-25,FCCU,Air Blower,Power,3796.59,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-18,FCCU,Slurry Pump,Power,2003.0,kWh,B Shift,Unit under maintenance
+2025-06-24,FCCU,Wet Gas Compressor,Power,4048.68,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-21,FCCU,Main Fractionator,Steam,98.61,Ton,C Shift,  
+2025-08-06,FCCU,Feed Preheater,Fuel Gas,262.41,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Main Fractionator,Steam,118.56,Ton,B Shift,Avarage value from Normalcondtion
+2025-06-26,FCCU,Slurry Pump,Power,206.17,kWh,B Shift,Minor fluctuation observed
+2025-06-18,FCCU,Regenerator,Steam,338.14593023255816,Ton,B Shift,Startup phase
+2025-01-16,FCCU,Co Boiler,Fuel Gas,449.2,Scm,B Shift,  
+2025-04-22,FCCU,Reactor,Steam,207.47,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-07,FCCU,Wet Gas Compressor,Electricity,4252.68,kWh,A Shift,Minor fluctuation observed
+2025-06-04,FCCU,Wet Gas Compressor,Power,4005.12,kWh,General,Minor fluctuation observed
+2025-02-09,FCCU,Reactor,Steam,202.91,Ton,A Shift,Avarage value from Normalcondtion
+2025-02-24,FCCU,Main Fractionator,Steam,103.75,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-02,FCCU,Main Fractionator,Steam,91.59,Ton,A Shift,Minor fluctuation observed
+2025-04-26,FCCU,Air Blower,Power,3726.61,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-26,FCCU,Feed Preheater,Fuel Gas,288.97,Sm3,B Shift,  
+2025-05-26,FCCU,Regenerator,Steam,317.69,Tons,General,Minor fluctuation observed
+2025-02-03,FCCU,Main Fractionator,Steam,111.13,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-23,FCCU,Slurry Pump,Power,193.18,kWh,C Shift,Unit under maintenance
+2025-01-13,FCCU,Wet Gas Compressor,Power,4389.54,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-02,FCCU,Flue Gas Cooler,Electricity,1008.21,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-16,FCCU,Air Blower,Power,4161.84,kWh,General,Minor fluctuation observed
+2025-03-29,FCCU,Co Boiler,Fuel Gas,455.8,Scm,A Shift,  
+2025-03-14,FCCU,Feed Preheater,Fuel Gas,296.83,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-01,FCCU,Co Boiler,Fuel Gas,443.9,Sm3,C Shift,Avarage value from Normalcondtion
+2025-10-04,FCCU,Reactor,Steam,185.37,Tons,A Shift,Sensor calibration pending
+2025-04-29,FCCU,Main Fractionator,Steam,96.63,Tons,A Shift,Reading taken manually
+2025-02-04,FCCU,Slurry Pump,Power,1976.5,kWh,C Shift,Startup phase
+2025-09-01,FCCU,Reactor,Steam,204.89830409356725,Tons,B Shift,Avarage value from Normalcondtion
+2025-03-10,FCCU,Feed Preheater,Fuel Gas,286.77,Scm,C Shift,Avarage value from Normalcondtion
+2025-05-02,FCCU,Wet Gas Compressor,Power,4190.83,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-09,FCCU,Feed Preheater,Fuel Gas,260.99,Scm,A Shift,Minor fluctuation observed
+2025-01-07,FCCU,Flue Gas Cooler,Power,1099.97,kWh,General,Startup phase
+2025-11-04,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,A Shift,  
+2025-01-16,FCCU,Main Fractionator,Steam,99.73,Ton,A Shift,Avarage value from Normalcondtion
+2025-09-02,FCCU,Wet Gas Compressor,Electricity,4333.82,kWh,B Shift,Reading taken manually
+2025-04-01,FCCU,Regenerator,Steam,324.77,Ton,General,Avarage value from Normalcondtion
+2025-11-03,FCCU,Wet Gas Compressor,Power,4061.97,kWh,C Shift,  
+2025-11-02,FCCU,Co Boiler,Fuel Gas,427.41,Scm,A Shift,Avarage value from Normalcondtion
+2025-06-24,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,B Shift,Avarage value from Normalcondtion
+2025-01-25,FCCU,Main Fractionator,Steam,118.68,Ton,A Shift,  
+2025-04-29,FCCU,Regenerator,Steam,355.34,Ton,General,Avarage value from Normalcondtion
+2025-05-11,FCCU,Air Blower,Power,3529.35,kWh,C Shift,Avarage value from Normalcondtion
+2025-11-06,FCCU,Air Blower,Power,3919.38,kWh,C Shift,  
+2025-01-01,FCCU,Wet Gas Compressor,Power,4215.39,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Main Fractionator,Steam,100.95,Ton,B Shift,Minor fluctuation observed
+2025-05-10,FCCU,Air Blower,Electricity,3753.32,kWh,C Shift,Startup phase
+2025-04-14,FCCU,Main Fractionator,Steam,118.02,Ton,B Shift,Reading taken manually
+2025-03-24,FCCU,Air Blower,Power,3701.57,kWh,General,Avarage value from Normalcondtion
+2025-06-27,FCCU,Air Blower,Power,3553.36,kWh,A Shift,Avarage value from Normalcondtion
+2025-09-03,FCCU,Co Boiler,Fuel Gas,448.31,Scm,C Shift,Reading taken manually
+2025-01-05,FCCU,Regenerator,Steam,338.14593023255816,Ton,B Shift,Reading taken manually
+2025-02-02,FCCU,Main Fractionator,Steam,125.29,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-24,FCCU,Slurry Pump,Power,150.38,kWh,A Shift,Startup phase
+2025-01-31,FCCU,Reactor,Steam,205.19,Ton,A Shift,Avarage value from Normalcondtion
+2025-07-05,FCCU,Wet Gas Compressor,Power,4331.5,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-21,FCCU,Slurry Pump,Electricity,168.76,kWh,General,  
+2025-03-14,FCCU,Air Blower,Electricity,4013.43,kWh,A Shift,Reading taken manually
+2025-02-23,FCCU,Feed Preheater,Fuel Gas,304.97,Sm3,B Shift,Avarage value from Normalcondtion
+2025-07-02,FCCU,Slurry Pump,Power,174.53,kWh,A Shift,Minor fluctuation observed
+2025-12-02,FCCU,Slurry Pump,Electricity,196.32,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-20,FCCU,Main Fractionator,Steam,105.31,Ton,B Shift,Unit under maintenance
+2025-04-30,FCCU,Co Boiler,Fuel Gas,409.59,Scm,B Shift,Minor fluctuation observed
+2025-06-07,FCCU,Air Blower,Power,3672.2,kWh,General,Avarage value from Normalcondtion
+2025-05-03,FCCU,Feed Preheater,Fuel Gas,314.41,Sm3,A Shift,Startup phase
+2025-01-03,FCCU,Flue Gas Cooler,Power,846.8,kWh,C Shift,Avarage value from Normalcondtion
+2025-09-03,FCCU,Slurry Pump,Electricity,162.66,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Main Fractionator,Steam,102.11,Tons,C Shift,Avarage value from Normalcondtion
+2025-01-15,FCCU,Air Blower,Power,4005.12,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Air Blower,Power,3716.66,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-13,FCCU,Feed Preheater,Fuel Gas,288.11,Sm3,A Shift,Avarage value from Normalcondtion
+2025-02-17,FCCU,Regenerator,Steam,330.86,Tons,C Shift,Startup phase
+2025-04-23,FCCU,Feed Preheater,Fuel Gas,299.65,Sm3,A Shift,Sensor calibration pending
+2025-06-07,FCCU,Feed Preheater,Fuel Gas,253.56,Scm,B Shift,Startup phase
+2025-01-13,FCCU,Regenerator,Steam,300.84,Ton,C Shift,Avarage value from Normalcondtion
+2025-08-03,FCCU,Feed Preheater,Fuel Gas,308.8,Sm3,C Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Wet Gas Compressor,Power,4367.01,kWh,A Shift,Startup phase
+2025-04-03,FCCU,Main Fractionator,Steam,126.68,Ton,A Shift,Startup phase
+2025-01-04,FCCU,Reactor,Steam,204.78,Ton,B Shift,Normal operation
+2025-06-17,FCCU,Slurry Pump,Power,156.05,kWh,C Shift,Sensor calibration pending
+2025-06-07,FCCU,Co Boiler,Fuel Gas,455.52,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-22,FCCU,Reactor,Steam,187.59,Tons,A Shift,Reading taken manually
+2025-04-14,FCCU,Feed Preheater,Fuel Gas,265.27,Scm,A Shift,Normal operation
+2025-05-08,FCCU,Regenerator,Steam,318.3,Ton,C Shift,  
+2025-01-01,FCCU,Slurry Pump,Power,207.53,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-12,FCCU,Air Blower,Power,4199.61,kWh,C Shift,Minor fluctuation observed
+2025-01-03,FCCU,Feed Preheater,Fuel Gas,250.96,Sm3,A Shift,Reading taken manually
+2025-01-06,FCCU,Slurry Pump,Power,214.49,kWh,General,  
+2025-03-23,FCCU,Slurry Pump,Power,209.29,kWh,C Shift,Reading taken manually
+2025-05-20,FCCU,Feed Preheater,Fuel Gas,280.09079096045195,Sm3,A Shift,Normal operation
+2025-06-29,FCCU,Wet Gas Compressor,Power,4437.25,kWh,General,Startup phase
+2025-02-16,FCCU,Main Fractionator,Steam,90.52,Ton,General,Reading taken manually
+2025-04-08,FCCU,Flue Gas Cooler,Power,1051.55,kWh,A Shift,Sensor calibration pending
+2025-08-06,FCCU,Co Boiler,Fuel Gas,428.38,Scm,B Shift,Unit under maintenance
+2025-06-23,FCCU,Feed Preheater,Fuel Gas,279.88,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-22,FCCU,Air Blower,Power,3973.84,kWh,C Shift,Sensor calibration pending
+2025-01-11,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,A Shift,Avarage value from Normalcondtion
+2025-02-14,FCCU,Main Fractionator,Steam,90.47,Ton,A Shift,Reading taken manually
+2025-04-23,FCCU,Co Boiler,Fuel Gas,417.51,Scm,B Shift,Unit under maintenance
+2025-06-18,FCCU,Wet Gas Compressor,Power,4087.67,kWh,General,  
+2025-06-18,FCCU,Slurry Pump,Power,175.87,kWh,General,Normal operation
+2025-05-19,FCCU,Co Boiler,Fuel Gas,452.32,Scm,A Shift,Startup phase
+2025-01-18,FCCU,Air Blower,Power,3665.04,kWh,A Shift,Normal operation
+2025-06-29,FCCU,Slurry Pump,Power,219.87,kWh,C Shift,Minor fluctuation observed
+2025-05-10,FCCU,Flue Gas Cooler,Power,1077.72,kWh,C Shift,Unit under maintenance
+2025-05-10,FCCU,Slurry Pump,Electricity,151.68,kWh,B Shift,Sensor calibration pending
+2025-05-23,FCCU,Flue Gas Cooler,Power,902.73,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-15,FCCU,Air Blower,Power,3816.38,kWh,C Shift,  
+2025-05-13,FCCU,Reactor,Steam,204.04,Ton,C Shift,Sensor calibration pending
+2025-02-06,FCCU,Feed Preheater,Fuel Gas,282.57,Scm,B Shift,Reading taken manually
+2025-07-06,FCCU,Main Fractionator,Steam,95.76,Tons,B Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Reactor,Steam,191.79,Ton,A Shift,Avarage value from Normalcondtion
+2025-02-15,FCCU,Reactor,Steam,188.62,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-21,FCCU,Co Boiler,Fuel Gas,478.03,Sm3,B Shift,Avarage value from Normalcondtion
+2025-06-16,FCCU,Flue Gas Cooler,Power,1003.74,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-15,FCCU,Regenerator,Steam,346.33,Ton,B Shift,Avarage value from Normalcondtion
+2025-11-01,FCCU,Slurry Pump,Power,203.23,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-29,FCCU,Regenerator,Steam,356.58,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-17,FCCU,Regenerator,Steam,310.99,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-14,FCCU,Air Blower,Power,3697.65,kWh,B Shift,Minor fluctuation observed
+2025-01-22,FCCU,Air Blower,Electricity,4035.08,kWh,C Shift,Unit under maintenance
+2025-01-21,FCCU,Air Blower,Power,3556.86,kWh,C Shift,Startup phase
+2025-01-24,FCCU,Main Fractionator,Steam,121.98934523809524,Tons,B Shift,Unit under maintenance
+2025-05-06,FCCU,Reactor,Steam,185.33,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-20,FCCU,Air Blower,Electricity,3769.82,kWh,General,Sensor calibration pending
+2025-05-25,FCCU,Co Boiler,Fuel Gas,418.3,Sm3,General,Avarage value from Normalcondtion
+2025-06-13,FCCU,Air Blower,Power,3844.56,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-13,FCCU,Feed Preheater,Fuel Gas,291.49,Scm,C Shift,Normal operation
+2025-02-28,FCCU,Flue Gas Cooler,Electricity,970.72,kWh,C Shift,  
+2025-05-07,FCCU,Regenerator,Steam,306.24,Ton,C Shift,Minor fluctuation observed
+2025-09-05,FCCU,Slurry Pump,Electricity,215.97,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-17,FCCU,Air Blower,Power,3516.63,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Regenerator,Steam,308.03,Tons,C Shift,Sensor calibration pending
+2025-12-06,FCCU,Wet Gas Compressor,Power,4178.91,kWh,A Shift,Startup phase
+2025-02-24,FCCU,Wet Gas Compressor,Power,4448.74,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-08,FCCU,Main Fractionator,Steam,105.6,Tons,C Shift,Normal operation
+2025-05-18,FCCU,Air Blower,Electricity,3597.87,kWh,A Shift,Startup phase
+2025-05-17,FCCU,Flue Gas Cooler,Power,1006.62,kWh,General,Avarage value from Normalcondtion
+2025-09-01,FCCU,Air Blower,Power,3582.92,kWh,General,Unit under maintenance
+2025-06-16,FCCU,Slurry Pump,Electricity,152.4,kWh,General,Reading taken manually
+2025-01-15,FCCU,Reactor,Steam,186.19,Ton,C Shift,Sensor calibration pending
+2025-04-16,FCCU,Slurry Pump,Power,206.43,kWh,B Shift,Unit under maintenance
+2025-01-31,FCCU,Air Blower,Power,3582.5,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-17,FCCU,Air Blower,Power,4084.21,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-24,FCCU,Main Fractionator,Steam,125.23,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-22,FCCU,Feed Preheater,Fuel Gas,297.91,Scm,B Shift,  
+2025-01-26,FCCU,Flue Gas Cooler,Power,968.72,kWh,B Shift,Minor fluctuation observed
+2025-04-24,FCCU,Slurry Pump,Power,159.98,kWh,General,  
+2025-08-06,FCCU,Air Blower,Power,3594.92,kWh,B Shift,  
+2025-04-05,FCCU,Flue Gas Cooler,Power,1015.74,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-25,FCCU,Co Boiler,Fuel Gas,0.0,Scm,C Shift,Reading taken manually
+2025-02-06,FCCU,Slurry Pump,Power,154.58,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-06,FCCU,Regenerator,Steam,339.53,Ton,B Shift,Normal operation
+2025-04-25,FCCU,Slurry Pump,Power,215.55,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Feed Preheater,Fuel Gas,280.09079096045195,Scm,General,Normal operation
+2025-05-27,FCCU,Regenerator,Steam,344.07,Ton,General,Avarage value from Normalcondtion
+2025-03-05,FCCU,Feed Preheater,Fuel Gas,271.54,Scm,A Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Flue Gas Cooler,Power,948.78,kWh,C Shift,Avarage value from Normalcondtion
+2025-12-03,FCCU,Reactor,Steam,185.6,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-27,FCCU,Co Boiler,Fuel Gas,416.11,Scm,A Shift,Normal operation
+2025-10-05,FCCU,Co Boiler,Fuel Gas,433.49,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-31,FCCU,Wet Gas Compressor,Electricity,4455.08,kWh,C Shift,Unit under maintenance
+2025-01-06,FCCU,Main Fractionator,Steam,122.26,Ton,A Shift,Unit under maintenance
+2025-02-13,FCCU,Flue Gas Cooler,Electricity,1086.53,kWh,C Shift,Normal operation
+2025-08-03,FCCU,Co Boiler,Fuel Gas,411.52,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Flue Gas Cooler,Power,999.02,kWh,General,Normal operation
+2025-03-19,FCCU,Wet Gas Compressor,Power,4588.78,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-13,FCCU,Regenerator,Steam,341.68,Ton,B Shift,Reading taken manually
+2025-05-30,FCCU,Air Blower,Power,4090.27,kWh,B Shift,Minor fluctuation observed
+2025-04-02,FCCU,Feed Preheater,Fuel Gas,289.84,Sm3,C Shift,Avarage value from Normalcondtion
+2025-12-02,FCCU,Air Blower,Electricity,3751.48,kWh,General,Minor fluctuation observed
+2025-05-29,FCCU,Co Boiler,Fuel Gas,436.17,Scm,B Shift,Reading taken manually
+2025-08-03,FCCU,Regenerator,Steam,319.64,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-27,FCCU,Reactor,Steam,-203.42,Tons,C Shift,Reading taken manually
+2025-03-22,FCCU,Feed Preheater,Fuel Gas,286.54,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Flue Gas Cooler,Power,1047.92,kWh,General,Normal operation
+2025-03-30,FCCU,Feed Preheater,Fuel Gas,283.93,Scm,B Shift,Sensor calibration pending
+2025-08-03,FCCU,Wet Gas Compressor,Electricity,4430.67,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-24,FCCU,Reactor,Steam,212.25,Tons,General,Avarage value from Normalcondtion
+2025-10-01,FCCU,Main Fractionator,Steam,128.48,Ton,A Shift,  
+2025-04-16,FCCU,Regenerator,Steam,304.46,Ton,B Shift,Minor fluctuation observed
+2025-01-19,FCCU,Feed Preheater,Fuel Gas,298.44,Scm,C Shift,  
+2025-02-27,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,A Shift,Reading taken manually
+2025-12-03,FCCU,Air Blower,Power,4133.26,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-24,FCCU,Feed Preheater,Fuel Gas,281.27,Scm,B Shift,Avarage value from Normalcondtion
+2025-06-23,FCCU,Reactor,Steam,203.93,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-13,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Co Boiler,Fuel Gas,446.62,Scm,C Shift,Avarage value from Normalcondtion
+2025-03-25,FCCU,Co Boiler,Fuel Gas,431.53,Scm,General,Normal operation
+2025-01-30,FCCU,Feed Preheater,Fuel Gas,274.38,Scm,B Shift,Reading taken manually
+2025-06-18,FCCU,Reactor,Steam,203.28,Ton,B Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Co Boiler,Fuel Gas,461.44,Sm3,B Shift,Avarage value from Normalcondtion
+2025-01-05,FCCU,Feed Preheater,Fuel Gas,250.12,Scm,C Shift,Avarage value from Normalcondtion
+2025-06-27,FCCU,Feed Preheater,Fuel Gas,274.94,Scm,General,Avarage value from Normalcondtion
+2025-03-09,FCCU,Feed Preheater,Fuel Gas,309.6,Scm,C Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Feed Preheater,Fuel Gas,253.84,Scm,A Shift,Startup phase
+2025-11-03,FCCU,Slurry Pump,Electricity,196.25,kWh,A Shift,Startup phase
+2025-04-29,FCCU,Feed Preheater,Fuel Gas,300.18,Scm,C Shift,Avarage value from Normalcondtion
+2025-02-08,FCCU,Co Boiler,Fuel Gas,403.57,Scm,General,Avarage value from Normalcondtion
+2025-06-03,FCCU,Air Blower,Electricity,4063.44,kWh,General,Normal operation
+2025-04-02,FCCU,Reactor,Steam,-198.39,Ton,B Shift,Startup phase
+2025-02-02,FCCU,Regenerator,Steam,305.97,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-15,FCCU,Slurry Pump,Electricity,162.3,kWh,B Shift,Sensor calibration pending
+2025-02-05,FCCU,Main Fractionator,Steam,92.99,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Regenerator,Steam,338.14593023255816,Tons,A Shift,  
+2025-12-05,FCCU,Co Boiler,Fuel Gas,443.47,Sm3,General,  
+2025-01-04,FCCU,Slurry Pump,Power,211.88,kWh,General,Avarage value from Normalcondtion
+2025-01-15,FCCU,Flue Gas Cooler,Power,932.93,kWh,A Shift,Avarage value from Normalcondtion
+2025-08-05,FCCU,Flue Gas Cooler,Power,962.46,kWh,B Shift,  
+2025-02-12,FCCU,Feed Preheater,Fuel Gas,280.09079096045195,Scm,A Shift,Startup phase
+2025-01-06,FCCU,Wet Gas Compressor,Power,4444.42,kWh,B Shift,Reading taken manually
+2025-02-14,FCCU,Regenerator,Steam,325.97,Ton,C Shift,Startup phase
+2025-05-13,FCCU,Air Blower,Electricity,3563.18,kWh,General,  
+2025-02-26,FCCU,Flue Gas Cooler,Power,1010.4,kWh,B Shift,Normal operation
+2025-04-24,FCCU,Wet Gas Compressor,Power,4584.31,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-29,FCCU,Reactor,Steam,204.89830409356725,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-05,FCCU,Flue Gas Cooler,Power,838.83,kWh,C Shift,Unit under maintenance
+2025-10-02,FCCU,Wet Gas Compressor,Power,4408.7,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-28,FCCU,Co Boiler,Fuel Gas,433.32,Scm,B Shift,Avarage value from Normalcondtion
+2025-05-19,FCCU,Air Blower,Electricity,4041.28,kWh,C Shift,Minor fluctuation observed
+2025-01-02,FCCU,Regenerator,Steam,330.57,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-01,FCCU,Wet Gas Compressor,Electricity,4520.72,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-19,FCCU,Flue Gas Cooler,Power,861.72,kWh,B Shift,Startup phase
+2025-01-29,FCCU,Main Fractionator,Steam,94.13,Ton,B Shift,Unit under maintenance
+2025-06-18,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,A Shift,Sensor calibration pending
+2025-02-27,FCCU,Air Blower,Power,3959.02,kWh,A Shift,  
+2025-03-31,FCCU,Regenerator,Steam,338.14593023255816,Tons,A Shift,Unit under maintenance
+2025-01-28,FCCU,Co Boiler,Fuel Gas,418.57,Scm,B Shift,Unit under maintenance
+2025-01-11,FCCU,Feed Preheater,Fuel Gas,295.49,Scm,General,Sensor calibration pending
+2025-06-22,FCCU,Reactor,Steam,195.75,Ton,General,Avarage value from Normalcondtion
+2025-01-14,FCCU,Co Boiler,Fuel Gas,407.3,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-15,FCCU,Feed Preheater,Fuel Gas,297.48,Sm3,C Shift,Avarage value from Normalcondtion
+2025-01-29,FCCU,Flue Gas Cooler,Electricity,978.14,kWh,C Shift,Avarage value from Normalcondtion
+2025-12-02,FCCU,Reactor,Steam,199.58,Ton,B Shift,Minor fluctuation observed
+2025-04-30,FCCU,Flue Gas Cooler,Electricity,867.9,kWh,General,Normal operation
+2025-01-04,FCCU,Co Boiler,Fuel Gas,443.65,Scm,B Shift,Minor fluctuation observed
+2025-03-22,FCCU,Co Boiler,Fuel Gas,426.34,Sm3,C Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Feed Preheater,Fuel Gas,256.15,Scm,A Shift,Avarage value from Normalcondtion
+2025-08-05,FCCU,Reactor,Steam,207.91,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Wet Gas Compressor,Power,4253.24,kWh,B Shift,  
+2025-05-24,FCCU,Co Boiler,Fuel Gas,419.52,Scm,A Shift,Sensor calibration pending
+2025-02-17,FCCU,Main Fractionator,Steam,96.7,Ton,A Shift,Startup phase
+2025-03-04,FCCU,Air Blower,Power,4075.14,kWh,A Shift,  
+2025-06-29,FCCU,Feed Preheater,Fuel Gas,268.86,Sm3,C Shift,Minor fluctuation observed
+2025-04-17,FCCU,Slurry Pump,Electricity,165.22,kWh,C Shift,Sensor calibration pending
+2025-09-01,FCCU,Slurry Pump,Power,179.76,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Slurry Pump,Power,151.96,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-10,FCCU,Air Blower,Power,4100.41,kWh,C Shift,Startup phase
+2025-03-27,FCCU,Wet Gas Compressor,Electricity,4070.01,kWh,C Shift,Minor fluctuation observed
+2025-08-02,FCCU,Feed Preheater,Fuel Gas,282.97,Scm,C Shift,Sensor calibration pending
+2025-06-20,FCCU,Slurry Pump,Electricity,161.79,kWh,C Shift,Minor fluctuation observed
+2025-03-25,FCCU,Main Fractionator,Steam,110.68,Tons,C Shift,Reading taken manually
+2025-06-25,FCCU,Main Fractionator,Steam,115.74,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-26,FCCU,Reactor,Steam,193.0,Ton,General,Unit under maintenance
+2025-03-15,FCCU,Regenerator,Steam,321.99,Tons,B Shift,Avarage value from Normalcondtion
+2025-06-13,FCCU,Feed Preheater,Fuel Gas,287.54,Scm,C Shift,Avarage value from Normalcondtion
+2025-04-27,FCCU,Wet Gas Compressor,Electricity,4127.12,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-03,FCCU,Main Fractionator,Steam,118.48,Ton,A Shift,Reading taken manually
+2025-06-18,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Slurry Pump,Power,163.94,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-23,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,A Shift,Reading taken manually
+2025-01-28,FCCU,Slurry Pump,Electricity,184.34,kWh,A Shift,Avarage value from Normalcondtion
+2025-09-05,FCCU,Regenerator,Steam,307.46,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-14,FCCU,Reactor,Steam,180.59,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Regenerator,Steam,331.94,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-04,FCCU,Regenerator,Steam,329.77,Ton,General,Unit under maintenance
+2025-06-19,FCCU,Main Fractionator,Steam,102.52,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Feed Preheater,Fuel Gas,316.1,Sm3,A Shift,Reading taken manually
+2025-04-28,FCCU,Wet Gas Compressor,Power,4395.55,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-24,FCCU,Main Fractionator,Steam,114.02,Ton,B Shift,Unit under maintenance
+2025-06-08,FCCU,Reactor,Steam,207.05,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Feed Preheater,Fuel Gas,262.55,Sm3,A Shift,Minor fluctuation observed
+2025-03-20,FCCU,Flue Gas Cooler,Power,809.86,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-27,FCCU,Slurry Pump,Electricity,209.4,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Slurry Pump,Electricity,162.71,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-03,FCCU,Air Blower,Power,3618.48,kWh,General,Reading taken manually
+2025-01-01,FCCU,Flue Gas Cooler,Power,1031.92,kWh,General,Avarage value from Normalcondtion
+2025-06-28,FCCU,Main Fractionator,Steam,124.48,Tons,B Shift,Sensor calibration pending
+2025-05-22,FCCU,Flue Gas Cooler,Power,841.57,kWh,B Shift,Unit under maintenance
+2025-06-01,FCCU,Slurry Pump,Power,179.04,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-17,FCCU,Wet Gas Compressor,Power,4566.92,kWh,C Shift,Avarage value from Normalcondtion
+2025-07-06,FCCU,Flue Gas Cooler,Electricity,912.44,kWh,A Shift,Avarage value from Normalcondtion
+2025-04-26,FCCU,Wet Gas Compressor,Electricity,4212.82,kWh,A Shift,Sensor calibration pending
+2025-01-10,FCCU,Regenerator,Steam,326.27,Ton,C Shift,Normal operation
+2025-04-17,FCCU,Feed Preheater,Fuel Gas,262.24,Scm,C Shift,Avarage value from Normalcondtion
+2025-03-28,FCCU,Wet Gas Compressor,Electricity,4499.85,kWh,General,Reading taken manually
+2025-03-13,FCCU,Air Blower,Electricity,3848.26,kWh,A Shift,Startup phase
+2025-01-10,FCCU,Flue Gas Cooler,Power,875.72,kWh,General,Sensor calibration pending
+2025-04-25,FCCU,Reactor,Steam,186.46,Tons,A Shift,Avarage value from Normalcondtion
+2025-07-03,FCCU,Feed Preheater,Fuel Gas,292.31,Sm3,General,Avarage value from Normalcondtion
+2025-09-02,FCCU,Slurry Pump,Power,218.07,kWh,C Shift,Reading taken manually
+2025-04-02,FCCU,Main Fractionator,Steam,99.14,Ton,General,Avarage value from Normalcondtion
+2025-06-13,FCCU,Regenerator,Steam,341.68,Ton,B Shift,Reading taken manually
+2025-06-21,FCCU,Feed Preheater,Fuel Gas,270.18,Scm,B Shift,Avarage value from Normalcondtion
+2025-04-22,FCCU,Feed Preheater,Fuel Gas,259.68,Sm3,A Shift,Minor fluctuation observed
+2025-06-26,FCCU,Flue Gas Cooler,Power,942.36,kWh,B Shift,Unit under maintenance
+2025-06-24,FCCU,Regenerator,Steam,358.37,Ton,B Shift,Avarage value from Normalcondtion
+2025-03-05,FCCU,Co Boiler,Fuel Gas,410.86,Sm3,A Shift,Avarage value from Normalcondtion
+2025-05-12,FCCU,Regenerator,Steam,330.42,Ton,B Shift,Startup phase
+2025-06-02,FCCU,Co Boiler,Fuel Gas,401.77,Scm,C Shift,Reading taken manually
+2025-05-05,FCCU,Regenerator,Steam,307.21,Ton,A Shift,Startup phase
+2025-01-20,FCCU,Wet Gas Compressor,Power,4451.518938547486,kWh,B Shift,Reading taken manually
+2025-02-06,FCCU,Main Fractionator,Steam,98.59,Tons,B Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Reactor,Steam,206.26,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-08,FCCU,Air Blower,Power,3500.59,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-07,FCCU,Slurry Pump,Electricity,204.9,kWh,B Shift,Avarage value from Normalcondtion
+2025-04-25,FCCU,Feed Preheater,Fuel Gas,303.78,Scm,C Shift,Normal operation
+2025-01-27,FCCU,Regenerator,Steam,305.92,Ton,General,Normal operation
+2025-03-28,FCCU,Main Fractionator,Steam,99.28,Ton,C Shift,Unit under maintenance
+2025-03-13,FCCU,Regenerator,Steam,324.72,Ton,A Shift,Unit under maintenance
+2025-06-29,FCCU,Main Fractionator,Steam,93.28,Ton,B Shift,Avarage value from Normalcondtion
+2025-04-02,FCCU,Reactor,Steam,209.32,Tons,C Shift,  
+2025-01-06,FCCU,Co Boiler,Fuel Gas,418.76,Sm3,A Shift,Avarage value from Normalcondtion
+2025-01-14,FCCU,Reactor,Steam,214.34,Tons,C Shift,  
+2025-03-26,FCCU,Air Blower,Power,3858.86,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-16,FCCU,Regenerator,Steam,342.97,Ton,General,Avarage value from Normalcondtion
+2025-10-04,FCCU,Slurry Pump,Power,150.9,kWh,A Shift,Minor fluctuation observed
+2025-01-23,FCCU,Wet Gas Compressor,Power,4327.76,kWh,C Shift,Startup phase
+2025-04-20,FCCU,Wet Gas Compressor,Power,4451.518938547486,kWh,General,Sensor calibration pending
+2025-02-13,FCCU,Main Fractionator,Steam,126.28,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Co Boiler,Fuel Gas,443.64,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Air Blower,Power,3860.77,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-29,FCCU,Feed Preheater,Fuel Gas,308.48,Scm,A Shift,Unit under maintenance
+2025-05-20,FCCU,Co Boiler,Fuel Gas,410.08,Scm,C Shift,Normal operation
+2025-03-15,FCCU,Wet Gas Compressor,Electricity,4166.29,kWh,A Shift,Sensor calibration pending
+2025-06-19,FCCU,Reactor,Steam,200.46,Ton,C Shift,Unit under maintenance
+2025-07-01,FCCU,Slurry Pump,Power,155.32,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-06,FCCU,Air Blower,Electricity,3535.15,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-05,FCCU,Wet Gas Compressor,Power,4002.84,kWh,General,Normal operation
+2025-06-10,FCCU,Air Blower,Electricity,3508.4,kWh,B Shift,  
+2025-01-08,FCCU,Air Blower,Electricity,3648.48,kWh,B Shift,Avarage value from Normalcondtion
+2025-07-01,FCCU,Co Boiler,Fuel Gas,462.22,Scm,B Shift,Avarage value from Normalcondtion
+2025-03-18,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,A Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Co Boiler,Fuel Gas,404.41,Scm,A Shift,Startup phase
+2025-02-07,FCCU,Air Blower,Power,3995.03,kWh,B Shift,  
+2025-03-06,FCCU,Wet Gas Compressor,Power,4017.69,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-15,FCCU,Main Fractionator,Steam,119.5,Ton,C Shift,Avarage value from Normalcondtion
+2025-01-19,FCCU,Main Fractionator,Steam,95.34,Tons,C Shift,Avarage value from Normalcondtion
+2025-05-05,FCCU,Wet Gas Compressor,Power,4541.53,kWh,B Shift,Startup phase
+2025-04-07,FCCU,Reactor,Steam,187.53,Ton,A Shift,Startup phase
+2025-01-17,FCCU,Main Fractionator,Steam,101.37,Ton,B Shift,Avarage value from Normalcondtion
+2025-11-04,FCCU,Flue Gas Cooler,Power,950.19,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-03,FCCU,Flue Gas Cooler,Power,883.24,kWh,B Shift,  
+2025-05-25,FCCU,Wet Gas Compressor,Power,4292.55,kWh,A Shift,Reading taken manually
+2025-01-21,FCCU,Wet Gas Compressor,Power,4355.09,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-23,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-01,FCCU,Co Boiler,Fuel Gas,432.23,Scm,C Shift,Reading taken manually
+2025-02-16,FCCU,Feed Preheater,Fuel Gas,284.34,Sm3,General,Avarage value from Normalcondtion
+2025-04-22,FCCU,Flue Gas Cooler,Power,827.13,kWh,A Shift,Normal operation
+2025-04-08,FCCU,Main Fractionator,Steam,108.04,Ton,A Shift,Avarage value from Normalcondtion
+2025-08-06,FCCU,Main Fractionator,Steam,101.59,Ton,B Shift,Avarage value from Normalcondtion
+2025-10-02,FCCU,Flue Gas Cooler,Power,994.21,kWh,A Shift,Sensor calibration pending
+2025-01-31,FCCU,Slurry Pump,Power,205.71,kWh,B Shift,Sensor calibration pending
+2025-05-05,FCCU,Slurry Pump,Power,158.01,kWh,General,Normal operation
+2025-03-17,FCCU,Flue Gas Cooler,Electricity,837.25,kWh,B Shift,Reading taken manually
+2025-01-03,FCCU,Wet Gas Compressor,Power,4067.52,kWh,B Shift,Normal operation
+2025-01-03,FCCU,Reactor,Steam,218.84,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-08,FCCU,Slurry Pump,Power,218.74,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-03,FCCU,Main Fractionator,Steam,102.15,Ton,A Shift,Reading taken manually
+2025-04-30,FCCU,Air Blower,Power,4090.15,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Regenerator,Steam,331.73,Ton,B Shift,  
+2025-01-20,FCCU,Reactor,Steam,206.85,Ton,C Shift,Startup phase
+2025-06-05,FCCU,Feed Preheater,Fuel Gas,317.77,Scm,General,Sensor calibration pending
+2025-05-25,FCCU,Regenerator,Steam,315.1,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-20,FCCU,Regenerator,Steam,302.4,Ton,A Shift,Normal operation
+2025-01-17,FCCU,Co Boiler,Fuel Gas,412.98,Scm,General,Avarage value from Normalcondtion
+2025-04-05,FCCU,Feed Preheater,Fuel Gas,286.39,Scm,A Shift,Sensor calibration pending
+2025-05-19,FCCU,Reactor,Steam,211.54,Tons,General,  
+2025-04-26,FCCU,Feed Preheater,Fuel Gas,294.4,Scm,A Shift,Avarage value from Normalcondtion
+2025-12-01,FCCU,Air Blower,Electricity,3692.14,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-24,FCCU,Feed Preheater,Fuel Gas,301.63,Scm,B Shift,Avarage value from Normalcondtion
+2025-01-29,FCCU,Feed Preheater,Fuel Gas,280.82,Sm3,C Shift,Unit under maintenance
+2025-02-22,FCCU,Feed Preheater,Fuel Gas,284.93,Scm,General,Avarage value from Normalcondtion
+2025-05-03,FCCU,Flue Gas Cooler,Power,809.64,kWh,C Shift,Startup phase
+2025-02-10,FCCU,Slurry Pump,Power,150.51,kWh,General,Normal operation
+2025-04-28,FCCU,Co Boiler,Fuel Gas,412.67,Scm,B Shift,Unit under maintenance
+2025-01-13,FCCU,Reactor,Steam,214.41,Ton,General,  
+2025-01-31,FCCU,Feed Preheater,Fuel Gas,293.36,Scm,A Shift,Avarage value from Normalcondtion
+2025-05-13,FCCU,Regenerator,Steam,315.7,Tons,A Shift,Minor fluctuation observed
+2025-03-31,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Sm3,General,Avarage value from Normalcondtion
+2025-04-20,FCCU,Reactor,Steam,182.71,Ton,B Shift,  
+2025-05-08,FCCU,Air Blower,Electricity,4007.1956647398843,kWh,B Shift,Minor fluctuation observed
+2025-01-26,FCCU,Feed Preheater,Fuel Gas,309.3,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Wet Gas Compressor,Electricity,4349.9,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-22,FCCU,Main Fractionator,Steam,122.12,Ton,General,  
+2025-01-13,FCCU,Main Fractionator,Steam,116.99,Ton,B Shift,Normal operation
+2025-01-29,FCCU,Co Boiler,Fuel Gas,425.13,Scm,C Shift,Avarage value from Normalcondtion
+2025-01-27,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,B Shift,Unit under maintenance
+2025-05-13,FCCU,Main Fractionator,Steam,119.13,Ton,C Shift,Reading taken manually
+2025-01-21,FCCU,Feed Preheater,Fuel Gas,298.2,Scm,A Shift,Avarage value from Normalcondtion
+2025-04-16,FCCU,Co Boiler,Fuel Gas,456.04,Sm3,B Shift,Avarage value from Normalcondtion
+2025-05-02,FCCU,Co Boiler,Fuel Gas,402.47,Scm,A Shift,Normal operation
+2025-03-27,FCCU,Air Blower,Electricity,4063.25,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-09,FCCU,Main Fractionator,Steam,108.6,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-03,FCCU,Wet Gas Compressor,Electricity,4484.84,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-03,FCCU,Slurry Pump,Power,210.16,kWh,B Shift,Reading taken manually
+2025-06-20,FCCU,Flue Gas Cooler,Electricity,933.85,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-18,FCCU,Feed Preheater,Fuel Gas,269.37,Scm,C Shift,Reading taken manually
+2025-05-18,FCCU,Slurry Pump,Electricity,191.52,kWh,C Shift,Unit under maintenance
+2025-03-01,FCCU,Regenerator,Steam,328.55,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-13,FCCU,Co Boiler,Fuel Gas,469.59,Scm,A Shift,Unit under maintenance
+2025-03-05,FCCU,Air Blower,Power,4007.1956647398843,kWh,A Shift,Reading taken manually
+2025-04-12,FCCU,Main Fractionator,Steam,90.38,Ton,C Shift,Unit under maintenance
+2025-05-20,FCCU,Reactor,Steam,204.89830409356725,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Air Blower,Electricity,3529.11,kWh,A Shift,  
+2025-06-16,FCCU,Co Boiler,Fuel Gas,437.99,Scm,C Shift,Avarage value from Normalcondtion
+2025-04-13,FCCU,Regenerator,Steam,310.08,Ton,C Shift,Sensor calibration pending
+2025-02-19,FCCU,Reactor,Steam,201.74,Tons,General,Avarage value from Normalcondtion
+2025-06-20,FCCU,Wet Gas Compressor,Electricity,4121.88,kWh,A Shift,Unit under maintenance
+2025-05-31,FCCU,Co Boiler,Fuel Gas,448.13,Scm,A Shift,Unit under maintenance
+2025-05-16,FCCU,Main Fractionator,Steam,125.84,Ton,A Shift,Minor fluctuation observed
+2025-05-31,FCCU,Main Fractionator,Steam,125.01,Tons,General,Avarage value from Normalcondtion
+2025-04-14,FCCU,Reactor,Steam,209.88,Ton,A Shift,Unit under maintenance
+2025-03-17,FCCU,Reactor,Steam,194.05,Tons,A Shift,Avarage value from Normalcondtion
+2025-05-14,FCCU,Main Fractionator,Steam,107.18,Tons,C Shift,Reading taken manually
+2025-05-15,FCCU,Flue Gas Cooler,Power,893.55,kWh,B Shift,Reading taken manually
+2025-05-01,FCCU,Co Boiler,Fuel Gas,442.37,Sm3,C Shift,Avarage value from Normalcondtion
+2025-05-07,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,General,  
+2025-04-29,FCCU,Wet Gas Compressor,Power,4364.38,kWh,C Shift,Startup phase
+2025-02-03,FCCU,Flue Gas Cooler,Electricity,956.22,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-07,FCCU,Co Boiler,Fuel Gas,427.74,Scm,A Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Air Blower,Power,4162.77,kWh,C Shift,Avarage value from Normalcondtion
+2025-09-04,FCCU,Slurry Pump,Power,184.91,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-31,FCCU,Air Blower,Electricity,3795.17,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Air Blower,Power,4111.0,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-04,FCCU,Slurry Pump,Power,1945.2,kWh,A Shift,  
+2025-01-17,FCCU,Flue Gas Cooler,Power,892.66,kWh,General,Reading taken manually
+2025-02-18,FCCU,Regenerator,Steam,332.23,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-02,FCCU,Co Boiler,Fuel Gas,468.37,Scm,A Shift,Reading taken manually
+2025-01-20,FCCU,Main Fractionator,Steam,117.16,Ton,General,Avarage value from Normalcondtion
+2025-06-17,FCCU,Main Fractionator,Steam,121.98934523809524,Tons,B Shift,Normal operation
+2025-06-04,FCCU,Flue Gas Cooler,Electricity,902.2,kWh,A Shift,  
+2025-09-02,FCCU,Co Boiler,Fuel Gas,473.67,Scm,General,  
+2025-05-02,FCCU,Main Fractionator,Steam,116.64,Ton,C Shift,Avarage value from Normalcondtion
+2025-08-01,FCCU,Slurry Pump,Power,163.41,kWh,B Shift,  
+2025-03-27,FCCU,Main Fractionator,Steam,98.44,Ton,C Shift,Startup phase
+2025-02-08,FCCU,Slurry Pump,Power,206.57,kWh,B Shift,Sensor calibration pending
+2025-02-01,FCCU,Feed Preheater,Fuel Gas,256.0,Scm,General,Sensor calibration pending
+2025-03-28,FCCU,Reactor,Steam,-189.28,Ton,C Shift,Sensor calibration pending
+2025-04-18,FCCU,Co Boiler,Fuel Gas,423.16,Scm,B Shift,Unit under maintenance
+2025-02-06,FCCU,Regenerator,Steam,356.54,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-15,FCCU,Wet Gas Compressor,Power,4085.12,kWh,C Shift,Sensor calibration pending
+2025-02-05,FCCU,Reactor,Steam,196.79,Ton,B Shift,Avarage value from Normalcondtion
+2025-09-04,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,B Shift,Reading taken manually
+2025-10-03,FCCU,Regenerator,Steam,345.33,Tons,A Shift,Reading taken manually
+2025-06-05,FCCU,Regenerator,Steam,338.14593023255816,Tons,B Shift,Avarage value from Normalcondtion
+2025-03-25,FCCU,Wet Gas Compressor,Electricity,4031.93,kWh,A Shift,Reading taken manually
+2025-02-16,FCCU,Air Blower,Electricity,3528.44,kWh,B Shift,Unit under maintenance
+2025-01-27,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,B Shift,Sensor calibration pending
+2025-08-01,FCCU,Regenerator,Steam,349.34,Ton,C Shift,Reading taken manually
+2025-01-31,FCCU,Flue Gas Cooler,Power,946.0,kWh,B Shift,Sensor calibration pending
+2025-05-21,FCCU,Feed Preheater,Fuel Gas,309.8,Scm,B Shift,Startup phase
+2025-02-21,FCCU,Wet Gas Compressor,Power,4060.17,kWh,General,Sensor calibration pending
+2025-06-24,FCCU,Flue Gas Cooler,Electricity,1078.35,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-31,FCCU,Flue Gas Cooler,Power,1094.93,kWh,General,Reading taken manually
+2025-06-27,FCCU,Flue Gas Cooler,Power,834.01,kWh,General,  
+2025-04-15,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,B Shift,  
+2025-09-03,FCCU,Regenerator,Steam,334.09,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-31,FCCU,Regenerator,Steam,312.35,Ton,A Shift,Unit under maintenance
+2025-02-14,FCCU,Slurry Pump,Power,184.47,kWh,A Shift,Avarage value from Normalcondtion
+2025-09-06,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-14,FCCU,Slurry Pump,Power,165.08,kWh,A Shift,Reading taken manually
+2025-10-02,FCCU,Co Boiler,Fuel Gas,433.9,Sm3,C Shift,Avarage value from Normalcondtion
+2025-11-01,FCCU,Main Fractionator,Steam,124.61,Ton,C Shift,Sensor calibration pending
+2025-02-23,FCCU,Main Fractionator,Steam,105.18,Ton,General,Avarage value from Normalcondtion
+2025-05-02,FCCU,Feed Preheater,Fuel Gas,317.79,Scm,C Shift,Avarage value from Normalcondtion
+2025-02-09,FCCU,Regenerator,Steam,307.22,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-13,FCCU,Co Boiler,Fuel Gas,408.3,Scm,B Shift,Startup phase
+2025-02-19,FCCU,Flue Gas Cooler,Power,973.59,kWh,A Shift,Normal operation
+2025-01-06,FCCU,Co Boiler,Fuel Gas,415.89,Scm,C Shift,Minor fluctuation observed
+2025-05-01,FCCU,Co Boiler,Fuel Gas,449.85,Sm3,C Shift,Sensor calibration pending
+2025-05-11,FCCU,Reactor,Steam,208.48,Ton,C Shift,Unit under maintenance
+2025-05-23,FCCU,Feed Preheater,Fuel Gas,280.09079096045195,Scm,C Shift,Unit under maintenance
+2025-01-23,FCCU,Regenerator,Steam,311.45,Ton,A Shift,Avarage value from Normalcondtion
+2025-07-01,FCCU,Regenerator,Steam,332.29,Ton,B Shift,Reading taken manually
+2025-07-02,FCCU,Wet Gas Compressor,Electricity,4351.61,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-07,FCCU,Flue Gas Cooler,Power,868.14,kWh,General,Sensor calibration pending
+2025-04-13,FCCU,Slurry Pump,Electricity,150.64,kWh,General,Avarage value from Normalcondtion
+2025-06-14,FCCU,Wet Gas Compressor,Power,4369.82,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-21,FCCU,Wet Gas Compressor,Power,4298.04,kWh,B Shift,Unit under maintenance
+2025-08-04,FCCU,Regenerator,Steam,354.52,Ton,A Shift,Normal operation
+2025-01-01,FCCU,Reactor,Steam,189.8,Tons,C Shift,Sensor calibration pending
+2025-03-05,FCCU,Regenerator,Steam,308.07,Ton,B Shift,Minor fluctuation observed
+2025-05-11,FCCU,Slurry Pump,Electricity,201.25,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-22,FCCU,Regenerator,Steam,0.0,Ton,A Shift,Sensor calibration pending
+2025-05-13,FCCU,Flue Gas Cooler,Power,1095.57,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-25,FCCU,Flue Gas Cooler,Power,939.76,kWh,A Shift,Avarage value from Normalcondtion
+2025-01-21,FCCU,Regenerator,Steam,349.88,Ton,B Shift,Normal operation
+2025-01-23,FCCU,Feed Preheater,Fuel Gas,314.68,Sm3,B Shift,Avarage value from Normalcondtion
+2025-03-17,FCCU,Main Fractionator,Steam,92.64,Tons,A Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Feed Preheater,Fuel Gas,306.51,Sm3,General,Avarage value from Normalcondtion
+2025-02-19,FCCU,Main Fractionator,Steam,120.29,Ton,B Shift,Unit under maintenance
+2025-04-22,FCCU,Wet Gas Compressor,Power,4559.73,kWh,A Shift,  
+2025-02-01,FCCU,Air Blower,Power,4109.36,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-30,FCCU,Flue Gas Cooler,Power,916.93,kWh,A Shift,Reading taken manually
+2025-02-08,FCCU,Reactor,Steam,215.27,Ton,General,Reading taken manually
+2025-05-04,FCCU,Regenerator,Steam,334.82,Ton,B Shift,Avarage value from Normalcondtion
+2025-05-03,FCCU,Reactor,Steam,183.73,Ton,A Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Co Boiler,Fuel Gas,460.3865680473373,Scm,A Shift,Minor fluctuation observed
+2025-04-19,FCCU,Main Fractionator,Steam,98.87,Ton,A Shift,Startup phase
+2025-11-01,FCCU,Reactor,Steam,196.62,Tons,A Shift,Sensor calibration pending
+2025-06-21,FCCU,Slurry Pump,Power,214.83528735632183,kWh,General,Avarage value from Normalcondtion
+2025-05-24,FCCU,Regenerator,Steam,352.25,Ton,A Shift,Avarage value from Normalcondtion
+2025-03-05,FCCU,Regenerator,Steam,317.3,Tons,C Shift,Avarage value from Normalcondtion
+2025-05-17,FCCU,Regenerator,Steam,336.78,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-26,FCCU,Slurry Pump,Power,181.46,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-09,FCCU,Air Blower,Power,3516.11,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-28,FCCU,Reactor,Steam,200.98,Ton,C Shift,Normal operation
+2025-05-20,FCCU,Regenerator,Steam,325.35,Ton,C Shift,Startup phase
+2025-02-23,FCCU,Co Boiler,Fuel Gas,404.8,Scm,C Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Air Blower,Power,3993.31,kWh,C Shift,Reading taken manually
+2025-01-22,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,A Shift,Minor fluctuation observed
+2025-02-17,FCCU,Flue Gas Cooler,Power,1073.3,kWh,A Shift,Minor fluctuation observed
+2025-04-13,FCCU,Wet Gas Compressor,Power,4399.29,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-14,FCCU,Slurry Pump,Power,182.3,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-27,FCCU,Main Fractionator,Steam,114.4,Ton,General,Startup phase
+2025-05-03,FCCU,Co Boiler,Fuel Gas,466.56,Scm,C Shift,Reading taken manually
+2025-01-28,FCCU,Wet Gas Compressor,Electricity,4386.94,kWh,A Shift,Sensor calibration pending
+2025-04-04,FCCU,Reactor,Steam,203.72,Ton,B Shift,Startup phase
+2025-05-14,FCCU,Feed Preheater,Fuel Gas,254.13,Scm,C Shift,Normal operation
+2025-01-03,FCCU,Flue Gas Cooler,Power,921.92,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-28,FCCU,Wet Gas Compressor,Power,4551.47,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-09,FCCU,Main Fractionator,Steam,108.78,Tons,A Shift,Avarage value from Normalcondtion
+2025-01-23,FCCU,Reactor,Steam,208.86,Ton,C Shift,Avarage value from Normalcondtion
+2025-06-21,FCCU,Co Boiler,Fuel Gas,461.83,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Feed Preheater,Fuel Gas,274.7,Scm,A Shift,Unit under maintenance
+2025-02-18,FCCU,Co Boiler,Fuel Gas,414.06,Scm,General,Avarage value from Normalcondtion
+2025-02-20,FCCU,Main Fractionator,Steam,98.66,Ton,A Shift,Avarage value from Normalcondtion
+2025-01-31,FCCU,Co Boiler,Fuel Gas,432.73,Scm,A Shift,Reading taken manually
+2025-04-11,FCCU,Wet Gas Compressor,Electricity,4566.56,kWh,B Shift,Startup phase
+2025-05-05,FCCU,Co Boiler,Fuel Gas,408.43,Scm,A Shift,  
+2025-06-04,FCCU,Slurry Pump,Power,171.5,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-24,FCCU,Wet Gas Compressor,Electricity,4533.56,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-17,FCCU,Air Blower,Electricity,3950.45,kWh,C Shift,Avarage value from Normalcondtion
+2025-02-05,FCCU,Feed Preheater,Fuel Gas,257.89,Scm,A Shift,Avarage value from Normalcondtion
+2025-04-04,FCCU,Co Boiler,Fuel Gas,402.4,Sm3,B Shift,Startup phase
+2025-04-17,FCCU,Main Fractionator,Steam,102.21,Ton,A Shift,  
+2025-02-16,FCCU,Flue Gas Cooler,Electricity,1012.91,kWh,C Shift,Unit under maintenance
+2025-10-01,FCCU,Slurry Pump,Electricity,156.52,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-29,FCCU,Main Fractionator,Steam,119.95,Ton,B Shift,Sensor calibration pending
+2025-02-22,FCCU,Flue Gas Cooler,Electricity,1002.11,kWh,B Shift,Reading taken manually
+2025-01-02,FCCU,Regenerator,Steam,332.78,Ton,General,Startup phase
+2025-06-15,FCCU,Feed Preheater,Fuel Gas,309.58,Scm,General,Avarage value from Normalcondtion
+2025-01-24,FCCU,Air Blower,Power,3509.86,kWh,C Shift,  
+2025-01-18,FCCU,Wet Gas Compressor,Electricity,4055.03,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-18,FCCU,Main Fractionator,Steam,102.78,Ton,B Shift,Avarage value from Normalcondtion
+2025-01-04,FCCU,Feed Preheater,Fuel Gas,303.98,Sm3,C Shift,Reading taken manually
+2025-08-05,FCCU,Slurry Pump,Power,214.83528735632183,kWh,General,Startup phase
+2025-09-04,FCCU,Reactor,Steam,211.88,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-21,FCCU,Co Boiler,Fuel Gas,449.22,Scm,C Shift,Avarage value from Normalcondtion
+2025-04-23,FCCU,Regenerator,Steam,307.03,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-17,FCCU,Co Boiler,Fuel Gas,477.94,Scm,C Shift,Unit under maintenance
+2025-02-05,FCCU,Regenerator,Steam,344.35,Ton,B Shift,Normal operation
+2025-02-24,FCCU,Co Boiler,Fuel Gas,468.83,Sm3,General,Sensor calibration pending
+2025-04-18,FCCU,Main Fractionator,Steam,99.04,Tons,A Shift,Avarage value from Normalcondtion
+2025-06-15,FCCU,Air Blower,Electricity,3973.0,kWh,A Shift,Unit under maintenance
+2025-03-18,FCCU,Air Blower,Power,4146.39,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-11,FCCU,Wet Gas Compressor,Power,4343.08,kWh,A Shift,Normal operation
+2025-02-17,FCCU,Co Boiler,Fuel Gas,423.19,Scm,C Shift,  
+2025-02-25,FCCU,Feed Preheater,Fuel Gas,266.3,Scm,C Shift,Minor fluctuation observed
+2025-02-14,FCCU,Flue Gas Cooler,Power,1047.77,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Regenerator,Steam,351.73,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-18,FCCU,Wet Gas Compressor,Power,-4083.92,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-28,FCCU,Air Blower,Electricity,3590.37,kWh,A Shift,  
+2025-01-22,FCCU,Co Boiler,Fuel Gas,447.5,Sm3,A Shift,Avarage value from Normalcondtion
+2025-03-23,FCCU,Regenerator,Steam,350.49,Ton,C Shift,  
+2025-05-09,FCCU,Wet Gas Compressor,Power,4264.26,kWh,C Shift,Reading taken manually
+2025-09-05,FCCU,Flue Gas Cooler,Power,818.24,kWh,C Shift,Avarage value from Normalcondtion
+2025-05-17,FCCU,Slurry Pump,Power,202.32,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-02,FCCU,Wet Gas Compressor,Electricity,4448.08,kWh,General,  
+2025-04-02,FCCU,Air Blower,Power,4030.89,kWh,B Shift,Avarage value from Normalcondtion
+2025-05-24,FCCU,Reactor,Steam,199.08,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-15,FCCU,Wet Gas Compressor,Power,4232.44,kWh,B Shift,Minor fluctuation observed
+2025-05-14,FCCU,Wet Gas Compressor,Power,4595.89,kWh,General,Sensor calibration pending
+2025-06-21,FCCU,Main Fractionator,Steam,103.93,Tons,C Shift,Reading taken manually
+2025-06-08,FCCU,Wet Gas Compressor,Electricity,4419.92,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-27,FCCU,Regenerator,Steam,336.78,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-07,FCCU,Feed Preheater,Fuel Gas,292.34,Scm,B Shift,Reading taken manually
+2025-06-14,FCCU,Reactor,Steam,215.47,Ton,A Shift,Startup phase
+2025-03-11,FCCU,Feed Preheater,Fuel Gas,258.48,Scm,C Shift,Startup phase
+2025-06-16,FCCU,Feed Preheater,Fuel Gas,279.59,Scm,C Shift,Reading taken manually
+2025-01-25,FCCU,Feed Preheater,Fuel Gas,276.3,Scm,B Shift,Avarage value from Normalcondtion
+2025-02-12,FCCU,Flue Gas Cooler,Power,976.91,kWh,C Shift,  
+2025-02-14,FCCU,Reactor,Steam,204.89830409356725,Tons,General,Startup phase
+2025-04-20,FCCU,Air Blower,Power,3707.45,kWh,B Shift,Avarage value from Normalcondtion
+2025-01-01,FCCU,Main Fractionator,Steam,120.35,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-19,FCCU,Flue Gas Cooler,Electricity,867.76,kWh,A Shift,Avarage value from Normalcondtion
+2025-05-10,FCCU,Main Fractionator,Steam,114.28,Ton,C Shift,Avarage value from Normalcondtion
+2025-04-06,FCCU,Air Blower,Power,4105.83,kWh,B Shift,Reading taken manually
+2025-05-07,FCCU,Reactor,Steam,193.83,Ton,C Shift,Unit under maintenance
+2025-06-21,FCCU,Air Blower,Power,3675.27,kWh,B Shift,Avarage value from Normalcondtion
+2025-03-16,FCCU,Air Blower,Power,3953.07,kWh,General,Unit under maintenance
+2025-05-01,FCCU,Air Blower,Power,4157.47,kWh,B Shift,Unit under maintenance
+2025-03-02,FCCU,Slurry Pump,Power,184.75,kWh,General,Avarage value from Normalcondtion
+2025-06-28,FCCU,Reactor,Steam,219.05,Ton,General,Reading taken manually
+2025-05-01,FCCU,Main Fractionator,Steam,120.42,Tons,B Shift,Sensor calibration pending
+2025-04-24,FCCU,Reactor,Steam,181.12,Tons,A Shift,Avarage value from Normalcondtion
+2025-05-23,FCCU,Co Boiler,Fuel Gas,438.02,Sm3,C Shift,  
+2025-11-02,FCCU,Flue Gas Cooler,Power,911.5,kWh,A Shift,Reading taken manually
+2025-05-01,FCCU,Flue Gas Cooler,Electricity,905.59,kWh,C Shift,Minor fluctuation observed
+2025-11-05,FCCU,Feed Preheater,Fuel Gas,314.72,Scm,B Shift,Sensor calibration pending
+2025-05-20,FCCU,Flue Gas Cooler,Power,875.7,kWh,General,Avarage value from Normalcondtion
+2025-05-07,FCCU,Air Blower,Power,4128.0,kWh,B Shift,Normal operation
+2025-02-06,FCCU,Reactor,Steam,204.89830409356725,Ton,B Shift,Avarage value from Normalcondtion
+2025-02-25,FCCU,Flue Gas Cooler,Power,896.19,kWh,A Shift,Avarage value from Normalcondtion
+2025-06-28,FCCU,Regenerator,Steam,302.18,Ton,A Shift,Startup phase
+2025-03-06,FCCU,Wet Gas Compressor,Power,4129.68,kWh,General,Avarage value from Normalcondtion
+2025-02-24,FCCU,Slurry Pump,Power,191.36,kWh,B Shift,Minor fluctuation observed
+2025-01-25,FCCU,Wet Gas Compressor,Power,4335.28,kWh,A Shift,Minor fluctuation observed
+2025-10-05,FCCU,Reactor,Steam,212.32,Ton,B Shift,  
+2025-01-15,FCCU,Main Fractionator,Steam,97.22,Ton,C Shift,Normal operation
+2025-05-01,FCCU,Flue Gas Cooler,Electricity,903.71,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-04,FCCU,Co Boiler,Fuel Gas,459.68,Scm,General,Avarage value from Normalcondtion
+2025-06-19,FCCU,Co Boiler,Fuel Gas,464.96,Scm,B Shift,Unit under maintenance
+2025-03-12,FCCU,Flue Gas Cooler,Power,818.93,kWh,General,Avarage value from Normalcondtion
+2025-04-28,FCCU,Air Blower,Power,3697.72,kWh,A Shift,Normal operation
+2025-05-30,FCCU,Co Boiler,Fuel Gas,411.22,Scm,General,Avarage value from Normalcondtion
+2025-03-03,FCCU,Co Boiler,Fuel Gas,435.16,Sm3,C Shift,Reading taken manually
+2025-01-23,FCCU,Air Blower,Power,3657.41,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-06,FCCU,Slurry Pump,Power,151.39,kWh,B Shift,Startup phase
+2025-02-27,FCCU,Slurry Pump,Power,161.68,kWh,C Shift,Startup phase
+2025-04-29,FCCU,Co Boiler,Fuel Gas,444.88,Scm,General,Startup phase
+2025-03-26,FCCU,Wet Gas Compressor,Power,4294.51,kWh,C Shift,Startup phase
+2025-06-14,FCCU,Regenerator,Steam,318.59,Ton,C Shift,Avarage value from Normalcondtion
+2025-02-03,FCCU,Slurry Pump,Power,162.89,kWh,A Shift,  
+2025-01-25,FCCU,Slurry Pump,Power,160.86,kWh,General,Avarage value from Normalcondtion
+2025-02-02,FCCU,Slurry Pump,Power,159.8,kWh,C Shift,Minor fluctuation observed
+2025-05-27,FCCU,Reactor,Steam,2165.2,Ton,A Shift,Sensor calibration pending
+2025-04-26,FCCU,Slurry Pump,Power,185.15,kWh,C Shift,Reading taken manually
+2025-06-05,FCCU,Air Blower,Power,3807.21,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-19,FCCU,Co Boiler,Fuel Gas,441.16,Scm,B Shift,Normal operation
+2025-03-29,FCCU,Air Blower,Power,3559.34,kWh,B Shift,Minor fluctuation observed
+2025-04-21,FCCU,Flue Gas Cooler,Power,958.5033333333333,kWh,General,Avarage value from Normalcondtion
+2025-05-27,FCCU,Co Boiler,Fuel Gas,418.64,Sm3,A Shift,Avarage value from Normalcondtion
+2025-02-23,FCCU,Wet Gas Compressor,Power,4219.55,kWh,C Shift,  
+2025-04-01,FCCU,Slurry Pump,Power,212.93,kWh,C Shift,Avarage value from Normalcondtion
+2025-01-31,FCCU,Wet Gas Compressor,Power,4211.19,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-10,FCCU,Feed Preheater,Fuel Gas,303.34,Scm,C Shift,Unit under maintenance
+2025-02-20,FCCU,Regenerator,Steam,355.35,Tons,B Shift,Startup phase
+2025-04-20,FCCU,Main Fractionator,Steam,96.62,Ton,General,Minor fluctuation observed
+2025-06-02,FCCU,Air Blower,Electricity,4047.34,kWh,A Shift,Normal operation
+2025-03-03,FCCU,Wet Gas Compressor,Power,4555.26,kWh,C Shift,Avarage value from Normalcondtion
+2025-03-30,FCCU,Co Boiler,Fuel Gas,475.53,Scm,B Shift,Minor fluctuation observed
+2025-04-19,FCCU,Air Blower,Power,3648.38,kWh,A Shift,Minor fluctuation observed
+2025-03-04,FCCU,Feed Preheater,Fuel Gas,-280.93,Scm,C Shift,Unit under maintenance
+2025-06-06,FCCU,Flue Gas Cooler,Power,1053.03,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-15,FCCU,Feed Preheater,Fuel Gas,314.48,Sm3,B Shift,Sensor calibration pending
+2025-04-13,FCCU,Main Fractionator,Steam,94.22,Ton,C Shift,Minor fluctuation observed
+2025-02-21,FCCU,Reactor,Steam,207.51,Ton,B Shift,Minor fluctuation observed
+2025-05-27,FCCU,Flue Gas Cooler,Power,1067.97,kWh,B Shift,  
+2025-03-10,FCCU,Slurry Pump,Power,176.32,kWh,General,Avarage value from Normalcondtion
+2025-03-21,FCCU,Regenerator,Steam,306.87,Tons,A Shift,Reading taken manually
+2025-04-14,FCCU,Wet Gas Compressor,Power,4594.64,kWh,C Shift,Reading taken manually
+2025-05-14,FCCU,Air Blower,Power,3812.96,kWh,C Shift,Normal operation
+2025-01-15,FCCU,Co Boiler,Fuel Gas,475.63,Sm3,C Shift,Normal operation
+2025-01-05,FCCU,Air Blower,Power,3603.1,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-23,FCCU,Air Blower,Power,3962.43,kWh,C Shift,Avarage value from Normalcondtion
+2025-04-18,FCCU,Feed Preheater,Fuel Gas,260.89,Scm,B Shift,Avarage value from Normalcondtion
+2025-04-01,FCCU,Regenerator,Steam,307.85,Ton,General,Avarage value from Normalcondtion
+2025-06-25,FCCU,Reactor,Steam,219.53,Ton,B Shift,  
+2025-07-04,FCCU,Slurry Pump,Electricity,167.44,kWh,A Shift,Minor fluctuation observed
+2025-02-10,FCCU,Main Fractionator,Steam,99.98,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-05,FCCU,Flue Gas Cooler,Electricity,924.21,kWh,C Shift,Avarage value from Normalcondtion
+2025-06-03,FCCU,Air Blower,Electricity,4133.47,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-02,FCCU,Reactor,Steam,192.91,Tons,B Shift,Unit under maintenance
+2025-03-07,FCCU,Wet Gas Compressor,Power,4055.75,kWh,A Shift,Reading taken manually
+2025-01-26,FCCU,Regenerator,Steam,314.06,Ton,A Shift,Avarage value from Normalcondtion
+2025-05-04,FCCU,Reactor,Steam,187.04,Ton,General,Startup phase
+2025-02-16,FCCU,Wet Gas Compressor,Power,4465.69,kWh,B Shift,Startup phase
+2025-03-07,FCCU,Co Boiler,Fuel Gas,432.07,Scm,B Shift,Avarage value from Normalcondtion
+2025-04-30,FCCU,Main Fractionator,Steam,121.98934523809524,Ton,A Shift,Avarage value from Normalcondtion
+2025-04-15,FCCU,Wet Gas Compressor,Power,4059.66,kWh,General,Sensor calibration pending
+2025-06-20,FCCU,Main Fractionator,Steam,127.11,Tons,A Shift,Sensor calibration pending
+2025-01-14,FCCU,Flue Gas Cooler,Electricity,829.75,kWh,C Shift,  
+2025-01-14,FCCU,Slurry Pump,Power,196.9,kWh,General,Minor fluctuation observed
+2025-02-06,FCCU,Reactor,Steam,219.89,Ton,General,Avarage value from Normalcondtion
+2025-04-16,FCCU,Air Blower,Power,3554.27,kWh,B Shift,Minor fluctuation observed
+2025-04-09,FCCU,Flue Gas Cooler,Power,852.6,kWh,General,Startup phase
+2025-01-01,FCCU,Feed Preheater,Fuel Gas,274.87,Sm3,C Shift,Startup phase
+2025-02-27,FCCU,Wet Gas Compressor,Electricity,4394.75,kWh,C Shift,Avarage value from Normalcondtion
+2025-12-01,FCCU,Regenerator,Steam,337.18,Ton,B Shift,Avarage value from Normalcondtion
+2025-10-04,FCCU,Air Blower,Power,3903.5,kWh,General,  
+2025-03-04,FCCU,Main Fractionator,Steam,115.36,Ton,C Shift,  
+2025-04-22,FCCU,Main Fractionator,Steam,96.01,Ton,General,Avarage value from Normalcondtion
+2025-04-22,FCCU,Air Blower,Power,3724.18,kWh,General,Reading taken manually
+2025-02-25,FCCU,Main Fractionator,Steam,121.87,Ton,B Shift,Minor fluctuation observed
+2025-05-31,FCCU,Feed Preheater,Fuel Gas,257.28,Sm3,B Shift,Unit under maintenance
+2025-06-01,FCCU,Air Blower,Power,3721.57,kWh,A Shift,Startup phase
+2025-02-12,FCCU,Co Boiler,Fuel Gas,433.34,Scm,A Shift,Avarage value from Normalcondtion
+2025-03-22,FCCU,Wet Gas Compressor,Power,4121.19,kWh,General,  
+2025-03-30,FCCU,Flue Gas Cooler,Electricity,1061.6,kWh,A Shift,Avarage value from Normalcondtion
+2025-02-17,FCCU,Reactor,Steam,218.36,Ton,General,Avarage value from Normalcondtion
+2025-02-03,FCCU,Regenerator,Steam,344.87,Ton,General,Avarage value from Normalcondtion
+2025-05-25,FCCU,Air Blower,Power,4147.71,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-15,FCCU,Co Boiler,Fuel Gas,453.94,Scm,General,Minor fluctuation observed
+2025-05-31,FCCU,Slurry Pump,Electricity,207.07,kWh,C Shift,  
+2025-04-11,FCCU,Slurry Pump,Power,162.35,kWh,A Shift,Avarage value from Normalcondtion
+2025-03-04,FCCU,Flue Gas Cooler,Power,803.66,kWh,General,Avarage value from Normalcondtion
+2025-06-04,FCCU,Co Boiler,Fuel Gas,424.47,Scm,General,Startup phase
+2025-04-29,FCCU,Reactor,Steam,190.7,Ton,C Shift,Avarage value from Normalcondtion
+2025-05-31,FCCU,Reactor,Steam,188.23,Ton,C Shift,Avarage value from Normalcondtion
+2025-03-28,FCCU,Regenerator,Steam,329.69,Ton,C Shift,Minor fluctuation observed
+2025-04-04,FCCU,Air Blower,Electricity,3919.83,kWh,C Shift,Unit under maintenance
+2025-03-15,FCCU,Slurry Pump,Power,184.03,kWh,B Shift,Reading taken manually
+2025-03-25,FCCU,Slurry Pump,Electricity,208.15,kWh,C Shift,Unit under maintenance
+2025-01-29,FCCU,Reactor,Steam,211.92,Tons,B Shift,Minor fluctuation observed
+2025-06-28,FCCU,Feed Preheater,Fuel Gas,272.94,Sm3,B Shift,Unit under maintenance
+2025-05-28,FCCU,Air Blower,Power,4007.1956647398843,kWh,B Shift,Avarage value from Normalcondtion
+2025-06-14,FCCU,Co Boiler,Fuel Gas,469.58,Scm,C Shift,Avarage value from Normalcondtion
+2025-02-03,FCCU,Air Blower,Power,3527.88,kWh,B Shift,Avarage value from Normalcondtion
+2025-02-02,FCCU,Co Boiler,Fuel Gas,435.21,Scm,B Shift,Minor fluctuation observed
+2025-04-12,FCCU,Feed Preheater,Fuel Gas,275.79,Scm,A Shift,Sensor calibration pending
