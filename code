@@ -36,7 +36,7 @@ df["Consumption"] = df["Consumption"].fillna(
     df.groupby("Equipment_Name")["Consumption"].transform("mean")
 )
 print(df.isnull().sum())
-df["Remarks"]=df["Remarks"].fillna("Avarage value from Normalcondtion").astype(str)
+df["Remarks"]=df["Remarks"].fillna("Using as Average Value form Normal Condition").astype(str)
 print(df.isnull().sum())
 # so now we have removed the null value and then we will do some data visualization to understand
 print(df)
