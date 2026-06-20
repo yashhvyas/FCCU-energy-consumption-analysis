@@ -32,11 +32,45 @@ print(df)
 # so now we have cleaned the data and then we will do some data visualization to understand the data better and also we will do some analysis to find out some insights from the data.
 print(df.drop_duplicates().shape)
 # so now we have removed the duplicate value and then we will do some data visualization to understand
+df.loc[df["Consumption"] <= 0, "Consumption"] = np.nan
 df["Consumption"] = df["Consumption"].fillna(
     df.groupby("Equipment_Name")["Consumption"].transform("mean")
-)
+).round(2)
 print(df.isnull().sum())
-df["Remarks"]=df["Remarks"].fillna("Using as Average Value form Normal Condition").astype(str)
+df["Remarks"]=df["Remarks"].fillna("Avarage value from Normalcondtion").astype(str)
 print(df.isnull().sum())
 # so now we have removed the null value and then we will do some data visualization to understand
 print(df)
+# so here final clean verfiction of the whole data 
+print(df.isnull().sum())
+print(df.duplicated().sum())    
+print(df.info())
+print(df.shape)
+print(df["Equipment_Name"].unique())
+print(df["Energy_Type"].unique())
+print(df["Unit"].unique())
+print(df["Shift"].unique())
+# now start main part of this project .
+# df.to_csv("//Users/macbook/Desktop/Fccu project /fccu_energy_consumption_cleaned.csv",index=False)
+# now here first we will start  groupby + aggregation function .
+totol_energy = df.groupby("Equipment_Name")["Consumption"].agg(["sum","mean","max","min"]).sort_values("max",ascending=False).round(2)
+print(totol_energy)
+# so here we can see that which equipment is very high energy consumption and which equipment is very low energy consumption and then we will do some data visualization to understand the data better.
+foam_energy = df.groupby("Energy_Type")["Consumption"].sum().sort_values(ascending=False).round(2)
+print(foam_energy)
+# so here we can see that which energy type is very high energy consumption and which energy type is very low energy consumption and then we will do some data visualization to understand the data better.
+df["month"] = df["Date"].dt.month
+print(df["month"].unique())
+df["month_name"] = df["Date"].dt.month_name()
+print(df["month_name"].unique())    
+df["day_name"] = df["Date"].dt.day_name()
+print(df["day_name"].unique())
+print(df)
+
+monthly_com =df[df["Energy_Type"] == "Electricity"]
+monthly_com.groupby("month_name")["Consumption"].sum().sort_values(ascending=False).round(2)
+print(monthly_com)
+# so now we will so some  extracting time info from Datefunction used.
+steam_df = df[df["Energy_Type"] == "Steam"]
+steam_df.groupby("Equipment_Name")["Consumption"].sum()
+print(steam_df)
