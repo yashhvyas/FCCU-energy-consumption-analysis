@@ -2,7 +2,7 @@
 
 Practice project analyzing energy consumption (steam, power, fuel gas) across FCCU plant equipment. Raw data → cleaning → analysis → visualization.
 
-**Status: Work in progress.** Cleaning is complete, analysis is underway. This README will be updated as the project moves forward.
+**Status: Work in progress.** Cleaning and analysis complete, visualization underway. This README will be updated as the project moves forward.
 
 ## Dataset
 
@@ -32,14 +32,21 @@ Practice project analyzing energy consumption (steam, power, fuel gas) across FC
 Completed:
 - Total and average consumption by equipment
 - Total consumption by energy type
-
-In progress:
 - Month-wise consumption trends
 - Shift-wise comparison
 
+## Visualizations
+
+Completed:
+- Total energy consumption by equipment (bar chart)
+- Total consumption by energy type (bar chart)
+
+In progress:
+- Monthly trend (line chart)
+- Shift-wise comparison (bar chart)
+
 ## Planned
 
-- Visualizations (matplotlib)
 - Summary of key findings
 
 ## Tools
