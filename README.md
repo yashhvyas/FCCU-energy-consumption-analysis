@@ -2,53 +2,38 @@
 
 Practice project analyzing energy consumption (steam, power, fuel gas) across FCCU plant equipment. Raw data → cleaning → analysis → visualization.
 
-**Status: Work in progress.** Cleaning and analysis complete, visualization underway. This README will be updated as the project moves forward.
+**Status: Dataset upgrade in progress.** Initial analysis was done on a self-generated practice dataset to learn the full data analytics pipeline. Now replacing it with a real plant-knowledge-based dataset for accurate, meaningful analysis.
 
-## Dataset
+## What This Project Covers
 
-- 6 months of daily readings (Jan - Jun 2025)
-- 9 equipment units: Reactor, Regenerator, Air Blower, CO Boiler, Wet Gas Compressor, etc.
+- 6 months of daily energy consumption readings (Jan - Jun 2025)
+- 9 FCCU equipment units: Reactor, Regenerator, Air Blower, CO Boiler, Wet Gas Compressor, etc.
+- 3 energy types: Steam, Power (Electrical), Fuel Gas
 - Columns: `Date`, `Plant_Area`, `Equipment_Name`, `Energy_Type`, `Consumption`, `Unit`, `Shift`, `Remarks`
 
-## Data Quality Issues Found
+## Project Progress
 
-- Date column with mixed formats (`2025-01-05`, `25/01/2025`, `14-03-2025`)
-- Inconsistent spelling/casing in Equipment_Name and Energy_Type
-- Same unit written differently (`Ton`, `ton`, `Tons`)
-- Missing values and outlier readings (negative/zero consumption)
-- Duplicate rows
+### Phase 1 — Learning Pipeline (Completed)
 
-## Cleaning Steps
+Built and ran the full data analytics pipeline on a self-generated practice dataset:
 
-- Standardized Date column to a single format
-- Fixed casing/spacing in Equipment_Name, Energy_Type, Shift
-- Merged duplicate category labels (e.g. `A` / `A Shift`, `Fuel Gas` / `Fuelgas`)
-- Treated negative/zero consumption as bad sensor readings, imputed using per-equipment average (not overall average, since usage ranges differ significantly across equipment)
-- Flagged imputed rows in Remarks for traceability
+- Explored raw data using `shape`, `info()`, `describe()`, `isnull().sum()`, `unique()`
+- Cleaned mixed date formats, inconsistent casing/spacing, duplicate category labels
+- Handled missing values and outlier readings (negative/zero consumption)
+- Imputed missing values using per-equipment average
 - Removed duplicate rows
+- Ran groupby analysis — equipment-wise, energy-type-wise, monthly trend, shift comparison
+- Built 4 visualizations using Matplotlib
 
-## Analysis
+### Phase 2 — Real Data (In Progress)
 
-Completed:
-- Total and average consumption by equipment
-- Total consumption by energy type
-- Month-wise consumption trends
-- Shift-wise comparison
+During analysis review, identified that energy type assignments in the practice dataset didn't match actual FCCU plant setup — for example, Wet Gas Compressor runs on a steam turbine drive, not electrical power. This kind of error significantly skews analysis results.
 
-## Visualizations
+Upgrading to a real plant-knowledge-based dataset with correct energy types and realistic consumption ranges based on actual field experience. Full analysis and visualizations will be re-run on this corrected data.
 
-Completed:
-- Total energy consumption by equipment (bar chart)
-- Total consumption by energy type (bar chart)
-
-In progress:
-- Monthly trend (line chart)
-- Shift-wise comparison (bar chart)
-
-## Planned
-
-- Summary of key findings
+This is a good example of why domain knowledge matters in data analytics — the numbers alone wouldn't catch this kind of error.
 
 ## Tools
 
 Python, Pandas, NumPy, Matplotlib
+
