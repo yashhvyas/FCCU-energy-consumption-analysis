@@ -1,83 +1,91 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
 
+# ── LOAD ──────────────────────────────────────────────────────────────
 df = pd.read_csv("//Users/macbook/Desktop/Fccu project /fccu_energy_consumption_raw.csv")
-print(df)
-# now explore data and find out ! what problems in row data 
+
+# ── EXPLORE ───────────────────────────────────────────────────────────
 print(df.shape)
 print(df.head())
 print(df.dtypes)
 print(df.isnull().sum())
-print(df.info())
 print(df.describe())
-# now start to data and time in same order 
-df["Date"] = pd.to_datetime(df["Date"],format="mixed")
-print(df["Date"].dtype)
-print(df["Date"].head())  
-#  so now date and time in same formate like 2020-01-01 00:00:00 and then we will do some data cleaning and data preprocessing to make the data more useful for analysis and visualization.
-df["Equipment_Name"]=df["Equipment_Name"].str.strip().str.title()
-print(df["Equipment_Name"].unique())
-df["Energy_Type"]=df["Energy_Type"].str.strip().str.title()
-print(df["Energy_Type"].unique()) 
-df["Unit"]=df["Unit"].str.strip().str.title()
-df["Unit"]=df["Unit"].replace("Kwh","kWh").replace("Mwh","MWh").replace("Gwh","GWh").replace("T","Ton")
-df["Unit"].unique()
-df["Shift"]=df["Shift"].str.strip().str.title()
-df["Shift"]=df["Shift"].replace("A","A Shift").replace("B","B Shift").replace("C","C Shift").replace("C-Shift","C Shift")
-print(df["Shift"].unique())
-df["Energy_Type"]=df["Energy_Type"].replace("Fuelgas","Fuel Gas").replace("Steam","Steam").replace("Electricity","Electricity")
-print(df["Energy_Type"].unique())
-print(df)
-# so now we have cleaned the data and then we will do some data visualization to understand the data better and also we will do some analysis to find out some insights from the data.
-print(df.drop_duplicates().shape)
-# so now we have removed the duplicate value and then we will do some data visualization to understand
+
+# ── DATE ──────────────────────────────────────────────────────────────
+df["Date"] = pd.to_datetime(df["Date"], format="mixed")
+
+# Remove out-of-range dates — keep only Jan-Jun 2025
+df = df[(df["Date"] >= "2025-01-01") & (df["Date"] <= "2025-06-30")]
+print("After date filter:", df.shape)
+
+# ── TEXT COLUMNS ──────────────────────────────────────────────────────
+df["Equipment_Name"] = df["Equipment_Name"].str.strip().str.title()
+df["Energy_Type"] = df["Energy_Type"].str.strip().str.title()
+df["Energy_Type"] = df["Energy_Type"].replace({
+    "Fuelgas": "Fuel Gas",
+    "Electricity": "Power"   # merge Electricity into Power
+})
+
+df["Unit"] = df["Unit"].str.strip().str.title()
+df["Unit"] = df["Unit"].replace({
+    "Kwh": "kWh", "T": "Ton", "Tons": "Ton",
+    "Sm3": "SCM", "Scm": "SCM"
+})
+
+df["Shift"] = df["Shift"].str.strip().str.title()
+df["Shift"] = df["Shift"].replace({
+    "A": "A Shift", "B": "B Shift",
+    "C": "C Shift", "C-Shift": "C Shift"
+})
+
+# ── DUPLICATES ────────────────────────────────────────────────────────
+df = df.drop_duplicates()
+print("After duplicates removed:", df.shape)
+
+# ── CONSUMPTION OUTLIERS + MISSING ────────────────────────────────────
 df.loc[df["Consumption"] <= 0, "Consumption"] = np.nan
+df.loc[df["Consumption"].isnull(), "Remarks"] = "Average value from Normal Condition"
 df["Consumption"] = df["Consumption"].fillna(
     df.groupby("Equipment_Name")["Consumption"].transform("mean")
 ).round(2)
-print(df.isnull().sum())
-df["Remarks"]=df["Remarks"].fillna("Avarage value from Normalcondtion").astype(str)
-print(df.isnull().sum())
-# so now we have removed the null value and then we will do some data visualization to understand
-print(df)
-# so here final clean verfiction of the whole data 
-print(df.isnull().sum())
-print(df.duplicated().sum())    
-print(df.info())
-print(df.shape)
-print(df["Equipment_Name"].unique())
-print(df["Energy_Type"].unique())
-print(df["Unit"].unique())
-print(df["Shift"].unique())
-# now start main part of this project .
-# df.to_csv("//Users/macbook/Desktop/Fccu project /fccu_energy_consumption_cleaned.csv",index=False)
-# now here first we will start  groupby + aggregation function .
-total_energy = df.groupby("Equipment_Name")["Consumption"].sum().sort_values(ascending=False).round(2)
-print(total_energy)
-# so here we can see that which equipment is very high energy consumption and which equipment is very low energy consumption and then we will do some data visualization to understand the data better.
-foam_energy = df.groupby("Energy_Type")["Consumption"].sum().sort_values(ascending=False).round(2)
-print(foam_energy)
-# so here we can see that which energy type is very high energy consumption and which energy type is very low energy consumption and then we will do some data visualization to understand the data better.
-df["month"] = df["Date"].dt.month
-print(df["month"].unique())
-df["month_name"] = df["Date"].dt.month_name()
-print(df["month_name"].unique())    
-df["day_name"] = df["Date"].dt.day_name()
-print(df["day_name"].unique())
-print(df)
 
-avg_consumption = df.groupby("month")["Consumption"].mean().sort_values(ascending=False).round(2) 
-print(avg_consumption)
-monthly_com = df.groupby("month")["Consumption"].sum().sort_values(ascending=False).round(2)    
-print(monthly_com)
-shift_com = df.groupby("Shift")["Consumption"].sum().sort_values(ascending=False).round(2)
-print(shift_com)
-# so now we will so some  extracting time info from Datefunction used.
-steam_df = df[df["Energy_Type"] == "Steam"]
-steam_df.groupby("Equipment_Name")["Consumption"].sum()
-print(steam_df)
-# so here we can graph the steam energy consumption for each equipment and then we will do some data visualization to understand the data better.
+# ── REMARKS — fix blank spaces ────────────────────────────────────────
+df["Remarks"] = df["Remarks"].str.strip()
+df["Remarks"] = df["Remarks"].replace("", "No Remarks")
+df["Remarks"] = df["Remarks"].fillna("No Remarks")
+
+# ── FINAL VERIFICATION ────────────────────────────────────────────────
+print("\n── Final Check ──")
+print("Shape:", df.shape)
+print("Nulls:\n", df.isnull().sum())
+print("Duplicates:", df.duplicated().sum())
+print("Energy_Type:", df["Energy_Type"].unique())
+print("Unit:", df["Unit"].unique())
+print("Shift:", df["Shift"].unique())
+print("Remarks blanks:", (df["Remarks"].str.strip() == "").sum())
+print("Date range:", df["Date"].min(), "to", df["Date"].max())
+
+# ── SAVE CLEANED FILE ─────────────────────────────────────────────────
+df.to_csv("//Users/macbook/Desktop/Fccu project /fccu_energy_consumption_cleaned_final.csv", index=False)
+print("Saved!")
+
+# ── ANALYSIS ──────────────────────────────────────────────────────────
+total_energy = df.groupby("Equipment_Name")["Consumption"].sum().sort_values(ascending=False).round(2)
+print("\nTotal by Equipment:\n", total_energy)
+
+energy_type = df.groupby("Energy_Type")["Consumption"].sum().sort_values(ascending=False).round(2)
+print("\nTotal by Energy Type:\n", energy_type)
+
+df["Month"] = df["Date"].dt.month
+monthly = df.groupby("Month")["Consumption"].sum().round(2)
+print("\nMonthly Trend:\n", monthly)
+
+shift = df.groupby("Shift")["Consumption"].mean().round(2)
+print("\nShift Comparison:\n", shift)
+
+# ── CHARTS ────────────────────────────────────────────────────────────
+# Chart 1 — Equipment
 plt.figure(figsize=(12, 6))
 plt.bar(total_energy.index, total_energy.values, color="steelblue")
 plt.title("Total Energy Consumption by Equipment")
@@ -87,13 +95,35 @@ plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.savefig("chart1_equipment_consumption.png", dpi=150)
 plt.show()
-# so Total consumption by Energy Type (Bar chart)
-energy_type = df.groupby("Energy_Type")["Consumption"].sum().sort_values(ascending=False).round(2)
+
+# Chart 2 — Energy Type
 plt.figure(figsize=(8, 5))
-plt.bar(energy_type.index, energy_type.values, color=["steelblue","darkorange","green"])
+plt.bar(energy_type.index, energy_type.values, color=["steelblue", "darkorange", "green"])
 plt.title("Total Consumption by Energy Type")
 plt.xlabel("Energy Type")
 plt.ylabel("Total Consumption")
 plt.tight_layout()
 plt.savefig("chart2_energy_type.png", dpi=150)
+plt.show()
+
+# Chart 3 — Monthly Trend
+plt.figure(figsize=(10, 5))
+plt.plot(monthly.index, monthly.values, marker="o", color="steelblue", linewidth=2)
+plt.title("Monthly Energy Consumption Trend")
+plt.xlabel("Month")
+plt.ylabel("Total Consumption")
+plt.xticks(ticks=[1,2,3,4,5,6], labels=["Jan","Feb","Mar","Apr","May","Jun"])
+plt.grid(True, linestyle="--", alpha=0.5)
+plt.tight_layout()
+plt.savefig("chart3_monthly_trend.png", dpi=150)
+plt.show()
+
+# Chart 4 — Shift
+plt.figure(figsize=(8, 5))
+plt.bar(shift.index, shift.values, color=["steelblue","darkorange","green","gray"])
+plt.title("Average Energy Consumption by Shift")
+plt.xlabel("Shift")
+plt.ylabel("Average Consumption")
+plt.tight_layout()
+plt.savefig("chart4_shift_comparison.png", dpi=150)
 plt.show()
